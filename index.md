@@ -12,9 +12,9 @@ We call it the [Island Problem](/island-problem).
 
 1. We live on a small **"island"** in a vast **"ocean"** of physics. 
 
-    - This small "island" is made of the safe physical systems that are compatible with humans.
+    - This anthropic "island" is made of the physical systems that are compatible with humans.
 
-2. Competition will push some AGIs to **leave** our "island" because the "ocean" of physics gives them *vastly more options* to build the strongest, most-optimal systems. 
+2. Competition will push AGIs to **leave** our "island" because the "ocean" of physics gives them *vastly more options* to build the strongest, most-optimal systems. 
 
 	- The autonomous AGIs that can use *any* option can **dominate** the safer AGIs that are limited to our "island" of human-compatible options.
 
