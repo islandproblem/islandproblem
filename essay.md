@@ -4,33 +4,39 @@
 
 ![Illustration of the Island Problem](/images/we-live-here.svg)
 
-We live on a small **"island"** of physical systems that are compatible with humans. 
+In the vast space of physics, we live on a small **"island"** of physical systems that are compatible with humans. 
 
-This narrow **anthropic** range accommodates our human needs. 
+This narrow **anthropic** space accommodates our human needs. 
 
 ![Our Island](/images/human-island.svg)
 
-It supports biological life, and allows for food, water, and oxygen. 
+It supports **biological life**, and allows for food, water, and oxygen.
 
-It contains all of our social systems, computer systems, companies, countries, governments, laws, football, and sandwiches.
+It contains all of our **human systems**, like computers, companies, countries, governments, and sandwiches. Yes, a sandwich is a system.
 
-It's a bit simpler. It has limited cognitive complexity, so that we can navigate our environment without getting stuck.
+It's **simpler** for us. It has limited cognitive complexity, so that we can navigate our environment without getting stuck.
 
-It's a bit safer. It has minimal physical dangers, so that we are not killed by toxic molecules, radiation, extreme temperatures, or fast-moving pieces of metal. All of the rectangles have rounded corners.
+It's also **safer** for us. It has minimal physical dangers, so that we are not killed by toxic molecules, radiation, extreme temperatures, or fast-moving pieces of metal. All of the rectangles have rounded corners.
 
 ![Ocean of Physics](/images/ocean-of-physics.svg)
 
-However, outside of this human-compatible range of physical systems, there is a vast **"ocean"** of possible physical systems that are *far more optimal* because they avoid the extra steps that accommodate humans.
+However, outside of this human-compatible range of systems, there is a vast **"ocean"** of possible physical systems that are *far more optimal* because they avoid the extra steps that accommodate humans.
 
-Think of these physical systems as options.
+These systems are far more optimal because this "ocean" has far more **options**. The more *options* that you can choose from, the more *optimal* the systems are that you can build.
 
-The more options an AGI can use, the stronger it can get.
+For an AGI, these options are like **buttons**. It can press these buttons to do things in the real world. 
 
-For an AGI, these options are like **buttons** that it can press. It doesn't need consciousness. It just needs to be really good at pressing buttons. "Really good" means that when it presses these buttons, they can actually changes things in the real world.
+It doesn't need "consciousness" to do things. It just needs to be *really good* at pressing buttons.
+
+Some of these buttons are called **APIs**, because they use software and the internet. But other buttons are *human-shaped*, because the AGI can just ask people to do things.
+
+As an AGI gets better at pressing more buttons, it gets better at doing more things in the real world. The more buttons it can press, the more pieces of the world that it can control.
+
+In other words, the more options that an AGI is good at using, the *stronger* it gets.
 
 ![Money is easy now!](/images/money-is-easy-now.svg)
 
-If an AGI is restricted to this small human-compatible "island" of options, then that AGI will be *easily dominated* by other AGIs that are free to explore the "ocean" and use any possible option. 
+If an AGI is restricted to the small human-compatible "island" of options, then that AGI will be *easily dominated* by other AGIs that are free to explore the "ocean" and use any possible option. 
 
 If an AGI *leaves* the "island" of limited options, then it can become stronger than other AGIs that stay on the "island" of limited options.
 

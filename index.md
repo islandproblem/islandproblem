@@ -4,7 +4,7 @@ Even if we successfully build some AGIs that are aligned and safe, we *still* ha
 
 How big is this problem? Well, it's *sort of* as big as physics itself.
 
-We call it the [Island Problem](/island-problem).
+We call it the [Island Problem](/essay).
 
 ---
 
