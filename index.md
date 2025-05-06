@@ -1,10 +1,14 @@
-AGI that can solve all of our problems sounds *amazing*, but it creates a bigger problem.
+:AGI that can solve all of our problems sounds *amazing*, but it creates a bigger problem.
 
 Even if we successfully build some AGIs that are aligned and safe, we *still* have this bigger problem.
 
 How big is this problem? Well, it's *sort of* as big as physics itself.
 
 We call it the [Island Problem](/essay).
+
+::next-link{href="/essay"}
+  Read the main essay
+::
 
 ---
 

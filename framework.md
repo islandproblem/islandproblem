@@ -4,7 +4,7 @@
 
 This framework is like the "source code" for the Island Problem. 
 
-It's structured as a progressive series of **if–then statements**.
+It is structured as a progressive series of **if–then statements**.
 
 ---
 

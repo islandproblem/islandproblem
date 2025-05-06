@@ -8,12 +8,12 @@ Not quite. It's a bit more abstract. The island is all of the physical systems t
 
 ## Isn't this just instrumental convergence?
 
-Sort of. It's more like instrumental *divergence*. You start at the island, and you *diverge* to the ocean. This is also the default process. It's like a concentration gradient. You go from a high concetration of extra steps to accommodate humans, to a low concentration of extra steps. This forces AGIs off the island.
+Sort of. It's more like instrumental *divergence*. You start at the island, and you *diverge* to the ocean. This is also the default process. It's like a concentration gradient. You go from a high concentration of extra steps that accommodate humans, to a low concentration of extra steps. This underlying physical structure creates a "slope" that inevitably leads AGIs to drift "downhill" on a path of least resistance — leading them off our "island" and towards the "ocean" of more-optimal systems.
 
 
 ## How does this relate to alignment?
 
-The Island Problem is like the hard problem of alignment. Even if we create an aligned and supremely ethical AGI, it is still built on top of physics, and so the vast space of non-human physical systems will always be eating at it from underneath.
+The Island Problem is like the hard problem of alignment. Even if we create an aligned and supremely ethical AGI, it is still built on top of physics, and so the vast space of non-human physical systems will always be eating at alignment from underneath.
 
 
 ## What is the official acronym of the Island Problem?
