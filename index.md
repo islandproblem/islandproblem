@@ -1,6 +1,6 @@
 :AGI that can solve all of our problems sounds *amazing*, but it creates a bigger problem.
 
-Even if we successfully build some AGIs that are aligned and safe, we *still* have this bigger problem.
+Even if we successfully build AGIs that are aligned and safe, we *still* have this bigger problem.
 
 How big is this problem? Well, it's *sort of* as big as physics itself.
 

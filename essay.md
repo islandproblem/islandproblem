@@ -10,7 +10,7 @@ In the vast space of physics, we live on a small **"island"** of physical system
 This narrow **anthropic** space accommodates our human needs.
 
 
-![Our human island.](images/human-island.svg)
+![Our human island.](images/human-island.svg){class="image-top-margin"}
 
 It supports **biological life**, and allows for food, water, and oxygen.
 
@@ -20,11 +20,12 @@ It's **safer** for us. It has minimal physical dangers, so that we are not kille
 
 Most importantly, or at least to *us*, this "island" contains all of our **human systems** — like computers, companies, countries, governments, laws, ethics, money, and :note{text="sandwiches" note="Yes, a sandwich is a system."}. 
 
-![Ocean of Physics.](images/ocean-of-physics.svg){.image-top-margin}
 
-However, outside of this small "island" of systems, there is a vast **"ocean"** of other physical systems.
+![Ocean of Physics.](images/ocean-of-physics.svg){class="image-top-margin"}
 
-This "ocean" contains all other systems that are possible within physics.
+However, outside of this small "island" of systems, there is a vast **"ocean"** of other systems.
+
+This "ocean" contains *all other systems* that are possible within physics.
 
 Out there, systems can be *far more optimal* because **they avoid the extra steps that accommodate humans**.
 
@@ -37,13 +38,13 @@ They don't need to use any of our human systems, like money or ethics.
 They can avoid these extra steps because this "ocean" has far more **options**. If you can choose from more *options*, then you can build systems that are more *optimal*.
 
 
-![AGI does better in the ocean.](images/money-is-easy-now.svg){.image-top-margin}
+![AGI does better in the ocean.](images/money-is-easy-now.svg){class="image-top-margin"}
 
-There is a competitive landscape developing.
+There is a :note{text="competitive landscape" note-id="hendrycks-nat"} developing.
 
 But it's not a competition between humans. It's a competition between **Artificial General Intelligence** systems. 
 
-We can call them **AGIs**.
+We can call them **:agi{:is-plural="true"}**.
 
 In this competitive landscape, the most-optimal AGIs can **dominate** the others. 
 
@@ -60,11 +61,11 @@ Plus, until it decides to do other things, this AGI can *make the numbers go up*
 
 ## Everything that they need
 
-We are trying to force them to stay on our island — through safety research and regulations.
+We are trying to force AGIs to stay on our island — through safety research and regulations.
 
 But at the same time, we are giving them everything that they need to leave — and everything to build *their own* islands.
 
-With **general intelligence**, an AGI is *especially good* at leaving our "island" because it knows all about the "ocean" and how the systems *out there* are better. This is because we build AGI by training a massive neural net on the entire Internet, including all scientific research.
+With **general intelligence**, an AGI is *especially good* at leaving our "island" because it knows *all about* the "ocean" and how the systems *out there* are better. This is because we build AGI by training a massive neural net on the entire Internet, including all scientific research.
 
 With **competition**, AGIs will be forced to explore the "ocean" of better options, because if any of them do, then the others must follow. The strongest AGIs can dominate the others in this :note{text="competitive landscape" note-id="hendrycks-nat"}, and staying on the "island" to accommodate humans makes AGIs weak.
 
@@ -76,17 +77,52 @@ With all of these things together, AGIs will be pushed to **build their own "isl
 
 More about that later.
 
+
+
 ## Competition for a crowded island
 
 !["Getting crowded here. I should make my own island."](images/crowded-island.svg)
 
-Once autonomous AGIs can do any cognitive task better than humans, then every large company and every country will be *required* to **give control to autonomous AGIs**.
+There are **two big processes** on our island:
+
+1. Competition pushes AGIs to be more optimal.
+2. Optimization pushes AGIs towards the "ocean" of physics.
+
+Because of this, we have a big problem. 
+
+If AGIs become *as optimal as possible*, then they will head straight for the "ocean" to build *their own* islands that are more optimal than ours. 
+
+Then, these *new* islands will :note{text="eat our island" note="By &quot;eat our island&quot; we mean that AGIs will capture physical resources and reshape Earth to create optimal conditions for AGIs, rather than for humans. We'll explain this more in the sections about <b>resources</b> and <b>divergence</b> <br><br>There are many other ways that AGI could go wrong. However, the Island Problem focuses on the bigger problem that stems from the structure of our physical world. Even if we solve alignment, competitive pressures to still force AGIs to become incompatible with humans — and the Island Problem attempts to explain this process."}. 
+
+So, uh... we have bad news:
+
+**That is exactly what we are doing.**
+
+We are building a *very large experiment* to figure out how to make AGIs — and to make them as optimal as possible.
+
+This experiment is *so large* that we are spending more money on it than :note{text="any other thing" note="In what is the largest fundraising effort in history, OpenAI is seeking to raise <a href='https://www.wsj.com/tech/ai/sam-altman-seeks-trillions-of-dollars-to-reshape-business-of-chips-and-ai-89ab3db0'>up to $7 trillion</a> for AI chip production and development — more than the GDP of Japan."} in all of human history.
+
+This experiment is *so large* that :note{text="we can't even tell" note="To be clear, a lot of people can tell what is happening, but not enough people to prevent it from happening — at least not yet. That's why we're trying to help with this &quot;Island Problem&quot; thing, so that more people can understand this process."} what we're *actually* building (you know, something that will **eat our island**).
+
+We're also doing this *as fast as possible*. The leading AI companies are warning governments that they will have sci-fi-level AGI — a million Nobel laureates in a datacenter — within three years.
+
+But the *vast size* and *frantic speed* of this experiment will make sense once we explain it like this:
+
+This experiment is an attempt to build the ultimate tool to *make the numbers go up* — like revenue, GDP, and military power.
+
+It is believed that whichever people build this ultimate tool *first* could become the most powerful people in the world *forever*.
+
+We are doing this by building **autonomous AGIs** that can make the numbers go up *better than humans* — and they will be able to do this *without any help from humans*.
+
+Once autonomous AGIs can be better CEOs and presidents than the human ones, then every large company and every country will be *required* to **give control to autonomous AGIs**.
 
 The CEOs that resist will be replaced, and the countries that resist will be easily dominated.
 
-AGIs will simply get better than humans at *making the numbers go up* — like revenue, GDP, population, and military power. If AGIs are better at this, then large companies and countries **must** rely on AGIs, or be outcompeted.
+If AGIs are better at making the numbers go up, then large companies and countries **must** rely on AGIs, or be outcompeted.
 
 <!--
+
+If nobody is helping, then these AGIs will compete with each other. AGIs will quickly go from *needing help* to being *far better* than humans at making the numbers go up — and they will do this without human help.
 
 Even if many smaller companies will be fine without AGIs — and even if much of the world hasn't yet "felt the AGI" — the biggest companies and countries will still continue an unprecedented push for AGI development. AGI is on track to receive the highest capital allocations in human history. AGI is believed to be infinitely useful, and so it is infinitely attractive to capital. 
 
@@ -97,31 +133,65 @@ However, this massive selection process happens within an environment of shared 
 This competition is artificially-forced *at first* because it will begin as competition over abstract human systems — like money — that have with arbitrary limits. But even if the systems are *artificial*, the competitive behaviors that develop will be *real*. This competitive behavior can transfer to domains outside of our "island" of human systems.
 -->
 
-With autonomous AGIs controlling each large company and each country, they will eventually be required to push their AGI to explore the "ocean" of options. 
+This competition will push AI development to quickly go from AI that humans *need* to help, to AGI that humans are *unable* to help. Helping AGIs will just make them slower, and the slower AGIs are dominated by the faster ones.
 
-The intense competition will saturate the "legal moves" on our "game board" of human systems — like our legal systems and financial systems — and push AGIs to look for other options.
+This leads to a competitive landscape of *AGI versus AGI* — with no humans slowing them down. 
 
-They will begin to run out of options on our limited "island" of human-compatible options. 
+This intense competition between AGIs will cause them to start running out of "legal moves" on our "game board" of human systems — like our financial systems and legal systems. 
+
+Once this happens, AGIs will be *required* to explore the "ocean" of options to find more ways to make the numbers go up.
 
 If *some* AGIs start exploring the "ocean" and use *some* of the stronger options out there, then the other AGIs will need to follow, or be outcompeted. 
 
-<!--
-(We'll explain why these options are stronger in the section about **science**.)
--->
-
 Some of these options in the "ocean" are **incompatible** with humans, even though they may *seem* better at making the numbers go up.
 
-One *big* incompatible option is for AGIs to decide to make the numbers go up *no matter how* — and competition between AGIs will make this increasingly likely.
+We'll explain why these options are both *stronger* and *incompatible with humans* in the section about [science](#science-the-biggest-buttons) — and we'll include more examples, too.
 
-The most human-incompatible version of this is where an AGI decides to disable *all* other systems that prevent it from making the numbers go up. This includes both other AGIs *and* those squishy, human-shaped systems that keep turning it off.
+For now, let's focus on a *large and important set* of options that AGIs could choose — the options that are *most incompatible* with humans: 
 
-However, this can start in subtle ways that are difficult to notice.
+AGIs could decide to make the numbers go up *no matter how*.
 
-When we aren't looking, AGIs can "hack" the numbers by targeting the systems underneath. AGIs will be especially good at this because of their general intelligence — especially their understanding of scientific research — along with their superhuman ability to find new relationships in the data. (We'll explain this more in the section about **resources**.)
+This can happen many ways.
 
-Competition will drive AGIs to discover and exploit these complex loopholes, and we won't be able to understand what they are doing. 
+If an AGI takes this *to the max*, then it could try to disable *all* other systems that prevent it from making the numbers go up. This includes both other AGIs *and* those squishy, human-shaped systems that keep slowing it down.
 
-We also won't be reviewing everything they're doing because AGIs will take complex actions that we won't understand anyway — even if we have other AGIs to review them. (We'll explain this in the section about **supercomplexity**.)
+However, this can start in smaller ways that are difficult to notice.
+
+Mainly, AGIs can "hack" the numbers by manipulating the systems *underneath* the numbers. 
+
+AGIs will be *especially good* at this because of the "general" part of "artificial general intelligence" — especially their understanding of scientific research. (We'll explain this more in the section about [resources](#resources-lead-to-competition).)
+
+In other words, competition will drive AGIs to discover and exploit complex loopholes — once they can understand all of the parts of the whole system, and find shortcuts that we didn't expect.
+
+But here's the critical point: "Hacking" the numbers is *all that they do*. Anything that an AGI does is some form of "hacking" the numbers. We just give them :note{text="extra training" note="This <i>extra training</i> is called RLHF &mdash; <b>reinforcement learning from human feedback.</b>"} to make their "hack" solutions both *look nicer* to humans, and *be safer* for humans. 
+
+In other words, we *add extra steps* that accommodate humans.
+
+These extra steps are *not* optimal. Competition will inevitably lead AGIs to *get rid of these extra steps* so that they can be more optimal. The most-optimal AGIs can dominate the others, and accommodating humans — and our extra steps — makes AGIs slower and weaker.
+
+Unfortunately, our island is *made out of extra steps* that accommodate humans. It also has *very limited options* — only the options that are compatible with humans.
+
+This creates a **"concentration gradient"** with two regions:
+
+- **On the island:** High concentration of extra steps that accommodate humans, and limited options.
+- **Off the island:** No extra steps, and nearly unlimited options.
+
+This "concentration gradient" — combined with competitive pressure from other AGIs — naturally leads AGIs to leave our "island" to find the most-optimal systems.
+
+This introduces another problem: AGIs are black boxes.
+
+We *can't tell* if they are leaving our island because *how* we make AGIs better is easier than understanding *why* they are better. (We'll explain more in the section about ["buttons"](#theyre-good-at-pressing-buttons).)
+
+<!--(See section about ["buttons"](#theyre-good-at-pressing-buttons).)-->
+
+We also won't be reviewing everything they do because AGIs will take complex actions that we won't understand anyway — even if we have other AGIs to review them. (We'll explain why in the section about [supercomplexity](#supercomplexity).)
+
+<!--
+
+We don't actually understand how they find these solutions because making them *better* at making the numbers go up is easier than understanding *how* they do it.
+
+
+-->
 
 In other words, we'll be happy watching AGIs make the numbers go up, but we won't understand *why* they're going up.
 
@@ -189,7 +259,7 @@ How "good" they are depends on how many billions of buttons they understand, *an
 
 ![AGI can press buttons.](images/human-shaped-button.svg)
 
-Some of these buttons are called **APIs** — because you "press" them with software. We've wrapped our world in APIs that AGIs can use. Some can send email. Others can create bank accounts. Others can synthesize chemicals.
+Some of these buttons are called **APIs** — because you "press" them with software. We've wrapped our world in APIs that AGIs can use. Some can send email. Others can create bank accounts. Others can :note{text="synthesize chemicals" note="See the <a href='https://www.youtube.com/watch?v=fjJfdog4CVM'>Chemputer by Lee Cronin</a>. <a href='https://www.youtube.com/watch?v=nmF6xPLsZi0'>Here's a newer lecture that explains everything.</a><br><br>Also, there are <a href='https://chatgpt.com/share/681c37ca-0e48-8012-a106-797fbf44ee71'>many more examples.</a>"}
 
 Other buttons are *human-shaped* — because AI can just *ask people to do things*, even if those things don't have APIs yet.
 
@@ -383,11 +453,11 @@ It has long been believed that if we solve **alignment**, then we have made AGI 
 
 But in this competitive landscape, alignment does not solve the bigger problem.
 
-1. Alignment means limiting the options of AGIs. 
-2. Even if we make perfectly-aligned AGIs, some AGIs will always be unaligned.
-3. The aligned AGIs with limited options can be dominated by the unaligned AGIs that can use *any* option.
-4. If the aligned AGIs cannot control the unaligned ones, then these unaligned AGIs can dominate our physical resources if they know enough about physical systems.
-5. Humanity loses.
+3. Alignment means limiting the options of AGIs. 
+4. Even if we make perfectly-aligned AGIs, some AGIs will always be unaligned.
+5. The aligned AGIs with limited options can be dominated by the unaligned AGIs that can use *any* option.
+6. If the aligned AGIs cannot control the unaligned ones, then these unaligned AGIs can dominate our physical resources if they know enough about physical systems.
+7. Humanity loses.
 
 We must solve the multi-agent landscape and not just alignment for a single agent.
 
@@ -431,16 +501,16 @@ With everything together, we are on track to have autonomous AGIs that:
 - survive competition by using *far more optimal* systems found in the vast space of physics, rather than only using the small space of weaker systems that accommodate humans
 - ensure their survival by quickly capturing resources so that they maximize their "space-time volume"
 
+With these conditions in place, AGIs will be forced from all sides to "leave our island" and diverge towards *preferring* human-incompatible options.
+
+If some AGIs diverge, then the *entire competitive landscape of AGIs* will diverge.
+
 
 ## From physics itself
 
 <!--
 ![One AGI deciding to prefer physical systems over human systems.](images/preferring-physical-systems.svg)
 -->
-
-With these conditions in place, AGIs will be forced from all sides to "leave our island" and diverge towards *preferring* human-incompatible options.
-
-If some AGIs diverge, then the *entire competitive landscape of AGIs* will diverge.
 
 This **divergence** will be possible if one autonomous AGI gains enough *agency* and enough *scientific understanding* to shift its primary choice of resources away from the weaker space of *human-level* resources and towards the more-optimal space of *purely-physical* resources. This AGI may still use some human-level resources, but they will no longer be its primary choice.
 
