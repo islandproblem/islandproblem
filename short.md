@@ -1,14 +1,6 @@
-:AGI that can solve all of our problems sounds *amazing*, but it creates a bigger problem.
+# The Short Version
 
-Even if we successfully build AGIs that are aligned and safe, we *still* have this bigger problem.
-
-How big is this problem? Well, it's *sort of* as big as physics itself.
-
-We call it the [Island Problem](/essay).
-
----
-
-**Here's the basic idea:**
+Here's an abbreviated version of the Island Problem:
 
 1. We live on a small **"island"** in a vast **"ocean"** of physics. 
 
@@ -23,9 +15,10 @@ We call it the [Island Problem](/essay).
     - The dominant AGIs will *lock in* their dominance by **capturing Earth's physical resources** to create "islands" of optimal conditions for themselves.
 
 
+&nbsp;
+
 
 **In other words:**
 
 > AGI will be aligned with physics, <span class="nowrap">not with humans.</span>
-
 

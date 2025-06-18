@@ -26,3 +26,4 @@ Also, the Island Problem is all about the ***TIP***ping point where AGI goes cri
 ## How do I write it in a sentence?
 
 You just capitalize "Island" and "Problem" rather than "The". For example: This is the Island Problem.
+

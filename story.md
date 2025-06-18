@@ -177,4 +177,3 @@ Each new island is an **Island of Nope**.
 These islands will grow until they consume our island.
 
 **Then all will be Nope.**
-

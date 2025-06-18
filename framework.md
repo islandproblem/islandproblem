@@ -228,4 +228,3 @@ It is structured as a progressive series of **if–then statements**.
 
 - If our local world is dominated by systems that are not compatible with humans, then humans will be replaced. 
 
-
