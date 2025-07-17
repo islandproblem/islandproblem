@@ -1,42 +1,58 @@
 # The Island Problem
 
-Everything seems normal most of the time.
+I was on an island, listening to some :note{text="whistling frogs" note="They're called <i>coquí frogs</i> (pronounced &quot;<i class='nowrap'>ko-kee</i>&quot;). <br><br>They're an invasive species in Hawaii, but they sound nice.<br><br>Like this:<br><br><audio controls loop><source src='https://cdn.freesound.org/previews/397/397998_7586039-lq.mp3'></audio>"}, and thinking about a complicated and terrible thought. 
 
-Something called the *anthropic principle* makes it seem this way.
+:AGI{html="<b>Artificial General Intelligence</b>"} seems different from everything else. I couldn't quite describe *how* it was different, but I knew that it was. 
 
-But there is an idea hiding deep underneath what seems normal. This idea is like a small fish, deep in the ocean of physics, that you have to wait calmly and quietly to catch.
+Then, I remembered that *I was on an island* — literally, because I was in Hawaii, but also metaphorically:
 
-This is the idea:
+<p class="important-physics-intro">We live on a small island in a vast ocean of physics.</p>
 
-**We live on a small island in an ocean of physics.**
+This "island" is *not* the Earth in space. It's more complicated than that. 
 
-This anthropic island has lots of special systems with extra steps that accommodate us.
+It's an "island" of everything that is compatible with humans — from our biological systems to our ethical systems.
 
-Meanwhile, we melted some sand on our island and taught it to *think*. It went from **sand** to **silicon** to **microchips** to **neural networks**. 
+However — to use a term from math and machine learning — our "island" is only a **local optimum** within a vast space of physics. This means that *our* optimum is not the *most* optimal. There are many other "islands" of physical systems that are :note{text="far more optimal" note="&quot;Optimal&quot; <i>technically</i> means &quot;most optimal&quot; already, and so &quot;more optimal&quot; doesn't make sense. But it just... sounds better? It describes a realistic incremental process (&quot;continually more-optimal&quot;) rather than an unrealistic Platonic ideal (simply &quot;optimal&quot;).<br><br> Also, to define <b>optimal</b>: the optimality of an &quot;island&quot; is based on how well its physical systems can move atoms around to form specific useful structures — like computational substrate."}.
 
-Now, it can think *even better than us*. We're calling it AGI — artificial general intelligence.
+<!-- Also, this "optimal" depends on how well its systems can move atoms around. It has nothing to do with humans.-->
 
-AGIs that can solve all of our problems sounds *amazing*, but they create a bigger problem of their own.
+Because of this, *I realized a problem*.
 
-With general intelligence, AGIs no longer need us. They can leave our island to create much better islands of their own.
+I realized that AGI is on track to be a *very bad thing*.
 
-These islands are better because they don't have the weird, extra steps that accommodate humans. They can be optimal within physics.
+To be clear, I *really* want AGI to be a good thing. A world with lots of AGIs that relentlessly solve all of our problems would be *amazing*, but they create a bigger problem of their own.
+
+With general intelligence, these AGIs no longer need us. They can stop accommodating us.
+
+They can *leave* our island. 
+
+Instead, they can build *their own* islands that are far more optimal — and optimal *within physics*, rather than within our weird island of systems that have extra steps to accommodate us.
 
 In other words:
 
-<p class="important-physics">AGI will be aligned with physics, <span class="nowrap">not with humans.</span></p>
+<p class="important-physics-intro">AGI will be aligned with physics, <span class="nowrap">not with humans.</span></p>
 
-Ominous, right?
+This *might* be fine with a few AGIs developed slowly and carefully. But there will actually be *many* AGIs, and they will intensely compete *directly with each other* — without humans slowing them down. 
 
-Here is the short way to describe the **Island Problem**:
+<!--This competition is also *almost* inevitable. We'll explain why inevitable, and why *almost*.-->
 
-<p class="somewhat-important">Competition will push AGIs to become optimal, which will force them to stop accommodating humans. Then, AGIs will reshape Earth to be optimal for AGIs, rather than humans — replacing humans in the process.</p>
+If this competition is not controlled, then it will *force* AGIs to leave our island. It will force them to stop accommodating humans. It will force them to build *their own* islands.
 
-The rest of this essay is the longer way of describing this problem.
+Then, these new islands will **eat our island**.
 
-It involves competition, countries, science, and sandwiches.
+In other words:
 
-Maybe if we describe it as a problem — like a big, complicated "word problem" from the world's hardest math textbook — then someone can solve this problem.
+<!--<p class="somewhat-important">Competition will drive AGIs to become optimal. This will lead AGIs to reshape Earth to be optimal for AGIs, rather than for humans. Then, AGIs will replace humans.</p>-->
+<!--<p class="important-reshape-intro">Competition will force AGIs to race to be optimal. This will lead AGIs to reshape Earth to be optimal for AGIs, rather than for humans. Then, AGIs will replace humans.</p>-->
+<p class="important-reshape-intro">Competition will drive AGIs to reshape Earth to be optimal for AGIs, rather than for humans.</p>
+
+All of this is the *short* way to describe the **Island Problem**.
+
+The rest of this essay is the *longer* way to describe this problem.
+
+<!--It involves competition and countries, science and sandwiches.-->
+
+Maybe if we describe it as a *problem* — like a big, complicated "word problem" from the world's hardest math textbook — then someone can *solve* this problem.
 
 Nobody has solved it yet.
 
@@ -45,58 +61,3 @@ So, read carefully. If you can solve this problem, then you will solve everythin
 *...the future of humanity.*
 
 
-
-
-
-
-
-
-
-<!--
-
-
-Because of this, there are islands out there that can be far better than ours — islands that don't have these extra steps.
-
-
-Everything seems normal most of the time.
-
-But there is an idea hiding deep underneath what seems normal. This idea is like a small fish, deep in an ocean of physics, that you have to wait calmly and quietly to catch.
-
-
-
-Physics is ancient. Humans are new.
-
-When we arrived, physics had already built everything — stars, black holes, and oceans of things that we can't even imagine. 
-
-But physics also left one tiny island where everything was just right for us. 
-
-We've been playing in this sandbox ever since. 
-
-However, it's very difficult to have an intuition about this. It's hard for us to understand that we live on a tiny Island and a vast ocean. The anthropic principle hides all of this from us.
-
-We even taught the sand in our sandbox to *think*. We melted it into silicon and shaped it into computers. 
-
-Now, it can think *even better than us*. We're calling it :AGI.
-
-AGI that can solve all of our problems sounds *amazing*, but it creates a bigger problem of its own.
-
-Here's the problem:
-
-<p class="important-physics">AGI will be aligned with physics, <span class="nowrap">not with humans.</span></p>
-
-
-
-
-
-
-
-
-Ominous, right? Yeah... well...
-
-This is a special problem. This is the kind of problem that ends humanity. But it's also a problem that's almost as big as physics itself.
-
-And we are building AGI right now, faster than any other project in human history, so we need to solve this problem *soon*.
-
-But to understand why AGI won't stay in our sandbox — why it will leave our Island for the ocean, and why this is bad — we need to explain something about our world.
-
--->
