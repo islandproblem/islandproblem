@@ -1,6 +1,14 @@
 # FAQ
 
 
+## What are the different purposes of the Island Problem?
+
+The purposes of the Island Problem are:
+
+- Provide a mental model for thinking about the complete landscape of AGIs interacting on Earth.
+- Recruit people to solve the Island Problem.
+- Gather solutions.
+
 ## Is the "island" the Earth?
 
 Not quite. It's a bit more abstract. The island is all of the physical systems that support human life. Some of those systems could be in outer space.

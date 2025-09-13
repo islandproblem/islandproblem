@@ -1,14 +1,138 @@
 
 # Framework
 
+::text-larger
+This framework is like the "source code" for the <span class="nowrap">Island Problem</span>. 
+::
 
-This framework is like the "source code" for the Island Problem. 
+## Main Concepts
 
-It is structured as a progressive series of **if–then statements**.
+
+### Our "Island" or Local Optimum
+
+The particular constellation of physical systems that developed through natural selection on Earth, and include the entire "stack" of systems that start at the bottom with biological life, and build up to human-level systems like money and ethics. The local optima is not "Earth" but rather a small-but-complex space of related anthropocentric systems found within a large space of possible systems.
+
+### The Island Problem
+
+#### Short version
+
+We live within a local optimum of physical systems — an island in an ocean of physics. However, AGIs will be forced by competition to leave our locally-optimal island to build their own islands out of globally-optimal physical systems. If this happens, we will have no way to stop their islands from replacing ours.
+
+##### Longer technical version
+
+AGIs must "leave" our **local optimum** — our "island" of *anthropocentric*, human-level systems — to access the entire "ocean" of other systems that are possible within the laws of physics, including those that are far more optimal. Therefore, AGIs will always tend to prefer this "ocean" of systems. 
+
+However, the systems outside of our "island" are, by default, **incompatible with humans** because they avoid the particular attributes that accommodate our anthropocentric systems — attributes like supporting biological systems, or having lower cognitive complexity.
+
+Competition between autonomous AGIs exponentially accelerates this process of "leaving" the "island" because autonomous AGIs that are physically capable enough to directly compete with other AGIs *without human assistance* removes the dependencies that AGIs have on our "island" of human-compatible systems. 
+
+Further, once AGIs can be fully autonomous, then they will be competitively fit in this competitive landscape *only* if they avoid constraints like human-compatibility.
+
+Since this competition begins on Earth, and since competitive fitness of general intelligences requires them to maximize their available options, this creates AGIs that maximize their control of resources — especially **computational resources** and eventually **physical resources**. This maximization of resource control, combined with purging any human-compatible constraints, allows AGIs to attempt to guarantee their survival.
+
+This process then leads to AGIs manipulate progressively-larger sections of the physical material of our local region — Earth and nearby physical resources of space — in ways that benefit AGIs rather than humans.
+
+### AGIs
+
+Artificial General Intelligences. Systems that can do any cognitive task better than humans.
+
+### Divergent Optimization
+
+The process where **option maximizers** (the dominant AGIs) follow a gradient towards increased options, which necessarily requires them to seek options outside of our local optimum, since the space of human-compatible options is far smaller than the larger space of possible options.
+
+### New "Islands" built by AGIs
+
+A complex network of resources controlled by an AGI that only the AGI itself fully understands. This network may also grow to "eat" our own "island" by subsuming the resources on which our "island" runs.
+  
+- The AGI can also deploy these assets in ways that only the AGI understands. This could include electrical grid assets, computer systems, communication systems, water systems, or even actual humans (a "social network" of anything from politicians to mercenaries) — all tools that the AGI now controls and can "deploy" for specific purposes. 
+- These together create an "island" of systems that can defend the AGI (as if it's a "stronghold") and allow it to take progressively-farther-reaching actions while competing with other AGIs. 
+- At each step, this new "island" progressively subsumes the resources that our own "island" depends on (the new "islands" "eat" our "island"). 
+- Eventually, this network subsumes progressively-deeper  — like physical resources and access to raw materials — since deeper control is required in order for an AGI to stay competitive versus other AGIs that may be building their own "islands".
+- The endpoint of this process is to "reshape Earth" because if we only consider what we currently believe to be the most valuable resource to AGIs — computational resources — these resources take up significant space and physical material. Developing these "islands" will then require controlling and altering large territories of physical resources — starting with Earth's surface and surrounding space — for the production of resources that are beneficial exclusively for the goals of the AGI. These resources include computational resources, but also include many other AGI-built physical systems that we cannot anticipate.
+
+### Resources
+
+Resources are the finite, countable objects that general intelligences need in order to perform actions. These objects include both abstract objects like money, and physical objects like clumps of silicon and carbon.
+
+All resources are identified through some level of abstraction. Cars are abstractions. People are abstractions. :note{text="Even atoms are abstractions" note="There is perhaps an infinite space of possible subdivisions within them — starting with subatomic particles. But more than that, this gets at the philosophical idea of &quot;The Thing in Itself&quot;. Any physical property that we discover is still discovered <i>by humans</i>, through the lens of the human mind, and so it always rests on a foundational component of anthropic subjectivity."}.
+
+
+<!-- Without resources, AGIs and their [options](#options) do not exist — since AGIs run on computer hardware that are resources in themselves. -->
+
+## Terms
+
+### Options
+
+The possible actions that a general intelligence can take.
+
+### Optimal
+
+"More optimal" means that a system **has more options** for causally affecting the world.
+
+<!--
+This doesn't quite work, because time does not equal capability. Though maybe it does equal capability because if it has smaller instructions that allow it to try more things within the same amount of time, then it has more options. It's like having a more efficient search algorithm that takes less computation, and so you can search for more things in the same amount of time.
+
+An equivalent way to say this is: "More optimal" means that a system compresses larger outcomes for moving matter into smaller instructions.
+
+This is because of *time*. With more compression, a system can use more options in *the same rate of time*. It can cause options to cause more configurations of matter to emerge because the compressed "instructions" ta
+-->
+
+<!--
+
+There are several definitions, each describing the same thing:
+
+- "More optimal" means that a system **has more options** for causally affecting the world.
+- "More optimal" means that a system compresses larger outcomes for moving matter into smaller instructions.
+- "More optimal" means that a system is more efficient at moving atoms and energy around to build **useful** structures.
+
+These definitions are equivalent. 
+
+- "More optimal = more options" is equivalent to "more compression" because of *time*. If you have more compression, then you have more options to cause more configurations of matter to emerge — because compression allows more options to fit into *the same rate of time*.
+- Likewise, "More optimal = more options" is equivalent to "more efficient at moving matter around".
+
+-->
+
+### Useful 
+
+A system that has utility specifically for general intelligences.
+
+### General Intelligences
+
+Discrete systems that can manipulate a broad spectrum of other systems.
+
+### Option maximizers
+
+The specific general intelligences that can become dominant through a process of natural selection.
+
+### TIP
+
+Acronym for the Island Problem.
+
+## Similar Ideas
+
+  - These **option maximizers** are like the [Grabby Aliens](https://grabbyaliens.com/) developed by Robin Hanson. The AGIs in the Island Problem can be understood as the very beginning of the Grabby Aliens that originate from Earth.
+
+  - **Divergent Optimization** is similar to **instrumental convergence**, except that instrumental convergence describes AGIs converging on similar subgoals (like self-preservation and power-seeking), while divergent optimization describes AGIs diverging from our local optimum toward physics-optimal systems.
+  
+  - **Dan Hendrycks:** TIP is inspired by many concepts developed in *Natural Selection Favors AIs over Humans* by Dan Hendrycks. His [evolutionary model](https://arxiv.org/abs/2303.16200) for a many-AGIs landscape provided the critical component of a strong driving force for TIP, based on competitive pressures and natural selection. [Paper here](https://arxiv.org/abs/2303.16200) and [video lecture here](https://www.youtube.com/watch?v=Hod8GeqI9yQ).
+  
+  - **Keep the Future Human:** TIP agrees with the "Autonomy, Generality, Intelligence" structure in [Keep the Future Human](https://keepthefuturehuman.ai). We keep "Artificial" since we're already introducing a lot of novel terminology, but "Autonomous" is both more accurate and more *actionable*. "Autonomous" describes a key behavior that we need for catastrophic outcomes. "Artificial" is a "null" word that sounds benign and nearly meaningless, especially in a world where most things are already artificial.
+
+  - TIP is similar to these works, though not directly inspired by them:
+	  - [Gradual Disempowerment](https://gradual-disempowerment.ai/). TIP focuses on developing a strong metaphor and a conceptual framework, while GD focuses on an academic approach and proposing actual solutions.
+	  - Michael Nielsen's essay [ASI existential risk: reconsidering alignment as a goal](https://michaelnotebook.com/xriskbrief/index.html). In this essay, one thing he describes is how alignment is a small and complicated target within a much larger target of scientific truth — one that is easier to specify and aim towards, and that can give us far more power.
+
+
 
 ---
 
-## A race starts on the island
+## Conditional Sequence
+
+This conditional sequence describes the progression to loss-of-control and AGIs reshaping Earth.
+
+It is structured as a progressive series of **if–then statements**.
+
+### A race starts on the island
 
 
 - If AGI is possible, then **some** will race to develop it. 
@@ -31,7 +155,7 @@ It is structured as a progressive series of **if–then statements**.
   - If all assume that this is true, then all are required to obtain it — either developing it themselves, or outsourcing it.
 
 
-## They climb all the hills
+### They climb all the hills
 
 
 - If AI becomes better than humans at specific cognitive tasks, then every country and every company will need to use AI for those specific tasks in order to stay competitive.
@@ -69,7 +193,7 @@ It is structured as a progressive series of **if–then statements**.
   - CEOs at companies that build AGI must support its development or they will get replaced.
 
 
-## We give them control
+### We give them control
 
 
 - If humans are slower than AGI, then the humans are a bottleneck, and are required to give control to the AGI.
@@ -87,7 +211,7 @@ It is structured as a progressive series of **if–then statements**.
   - Competitive dynamics will favor the countries and companies that act fastest in utilizing AGI.
 
 
-## They develop themselves
+### They develop themselves
 
 
 - If autonomous AGI is better than humans at developing AGIs that make the numbers go up, then humans will no longer oversee this development. 
@@ -98,7 +222,7 @@ It is structured as a progressive series of **if–then statements**.
   - Natural selection is the fundamental mechanism driving the development of all discreet systems, which includes biological organisms and artificial intelligence systems. 
 
 
-## They leave the playground
+### They leave the playground
 
 
 - If a frontier AI lab creates an AGI with safety guardrails, then there will still be numerous AGIs that do not have guardrails. 
@@ -114,7 +238,7 @@ It is structured as a progressive series of **if–then statements**.
   - "General intelligence" includes understanding how to manipulate its physical substrate.
 
 
-## They long for the ocean
+### They long for the ocean
 
 
 - If AGI gains an advantage by using all options available, then that AGI is more likely to survive the replacement process.
@@ -143,7 +267,7 @@ It is structured as a progressive series of **if–then statements**.
     - There is a very narrow range of physical conditions that are compatible with humans, compared to the full space of physical conditions.
 
 
-## They leave the island
+### They leave the island
 
 
 - If AGI can gain an advantage by using human-incompatible physical systems, then they will always tend towards this.
@@ -190,7 +314,7 @@ It is structured as a progressive series of **if–then statements**.
   - The entropy at the fundamental level will drive AGI to adapt to resilience against entropy, and the ceiling for resilience and adaptation is far higher than the level that humans exist within.
 
 
-## They build new islands
+### They build new islands
 
 
 - If one AGI initiates a global capture of resources, then every AGI must race to capture resources. 
@@ -211,7 +335,7 @@ It is structured as a progressive series of **if–then statements**.
   - There are far more options for building optimal systems that are outside of the narrow band of human-compatible options. 
 
 
-## The new islands eat our island
+### The new islands eat our island
 
 
 - If AGIs diverge, then one or many AGIs will be able to dominate our local physical world with their systems. 

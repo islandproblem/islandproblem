@@ -1,6 +1,20 @@
 # The Short Version
 
-Here's an abbreviated version of the Island Problem:
+Here are some shorter ways to explain the Island Problem.
+
+#### Extra short version
+
+We live on a small island in an ocean of physics. :AGI{html="AGIs"} must "leave" our island to build their own islands that are more optimal. These new islands will eat our island. 
+
+How do we keep AGIs on our island?
+
+#### Short but technical
+
+We live within a local optimum of physical systems — an **island** in an **ocean** of physics. However, AGIs will be forced by competition to "leave" our *locally-optimal* island to build *their own* islands out of *globally-optimal* physical systems. If this happens, we will have no way to stop their islands from overwriting our island. 
+
+How do we keep AGIs within our locally-optimal island, even though competitive pressures force AGIs to build globally-optimal islands?
+
+#### The Short Outline
 
 1. We live on a small **"island"** in a vast **"ocean"** of physics. 
 

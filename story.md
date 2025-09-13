@@ -1,10 +1,6 @@
 
 # They long for the ocean
 
-<!--
-::animation-box{name="island-anim-1"}
-::
--->
 
 We are on a weird little island in a vast ocean.
 

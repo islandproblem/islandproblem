@@ -2,7 +2,7 @@
 # Hypotheses
 
 
-These hypotheses provide a framework for empirical verification of The Island Problem.
+These hypotheses provide a framework for empirical verification of the Island Problem.
 
 If you have research that verifies any of these hypotheses, then please [contact us](mailto:humans@islandproblem.org), or join our [GitHub community](https://github.org/islandproblem/islandproblem).
 
