@@ -8,7 +8,15 @@ I was on an island, listening to some :note{html="whistling&nbsp;frogs" note="Th
 
 :radio-panel
 
-:AGI{html="<b>Artificial General Intelligence</b>"} seemed different from everything else. <span class="nowrap">I couldn't</span> quite describe *how* it was different, but I knew that it was. 
+I heard that we were close to building it — the mythical AI that is smarter than humans at everything that matters. 
+
+Some call it **superintelligence**. Others call it AGI — **artificial general intelligence**. 
+
+Let's call it :AGI.
+
+Anyway, it sounded great. AGI could solve death, bring wealth to all, and automate all of the stuff that we don't like to do.
+
+But something bothered me. :note{text="A lot of people" note="<p>In 2023, the <a href='https://aistatement.com/'>Statement on AI Risk</a> was signed by:</p><ul><li>The world's most-cited scientists: Yoshua Bengio, Geoffrey Hinton, and Ilya Sutskever</li><li>CEOs of major AI companies: Sam Altman (OpenAI), Demis Hassabis (Google DeepMind), Dario Amodei (Anthropic)</li></ul><p>The statement has only one sentence:</p><blockquote>Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war.</blockquote>"} are worried about AGI, but I didn't really understand *why*.
 
 Then, I remembered that *I was on an island* — literally, because I was in Hawaii, but also metaphorically:
 
@@ -16,91 +24,115 @@ Then, I remembered that *I was on an island* — literally, because I was in Haw
 
 This "island" is *not* the Earth in space. It's more complicated than that. 
 
-It's an "island" of everything that is compatible with humans — from our biological systems to our ethical systems.
+It's an "island" of the *very specific* things that humans need, within a vast "ocean" of all things possible within physics.
 
-However — to use a term from math and machine learning — our "island" is only a **local optimum** within a vast space of physics. This means that *our* optimum is not the *most* optimal. There are many other "islands" of physical systems that are :note{text="far more optimal" note="&quot;Optimal&quot; <i>technically</i> means &quot;most optimal&quot; already, and so &quot;more optimal&quot; doesn't make sense. But it just... sounds better? <br><br>It describes a realistic incremental process (&quot;continually more-optimal&quot;) rather than an unrealistic Platonic ideal (simply &quot;optimal&quot;).<br><br>Also, to define <b>optimal</b>: <br><br>The optimality of a general intelligence is based on how many <b>options</b> it has. This may seem a bit abstract, but we explain this throughout, and especially in the section titled &quot;<a href='#they-want-options'>They want options</a>&quot;."}.
+This "island" seems pretty good to *us*. But it's far from the best.
 
-<!-- Also, this "optimal" depends on how well its systems can move atoms around. It has nothing to do with humans.-->
+Humans need lots of "extra steps" — food, water, oxygen, but not *too much* oxygen — and not too hot, not too cold, not too fast, not too complicated, and so on.
 
-Because of this, *I realized a problem*.
+We also need lots of weird systems — financial systems, ethical systems, legal systems, and many others.
 
-<!--
-I realized that the people freaking out about AGI are right.
+But if AI systems can avoid these "extra steps" of human compatibility, then they can be vastly stronger, faster, and *smarter*.
 
-AGI will annihilate the human species if we stay on the current path.
--->
-I realized that AGI is on track to be a *very bad thing*.
+Suddenly, everything made sense. 
 
-<!--But, to be clear, I *really* want to figure out how to build AGI that *won't* annihilate us. A world with lots of AGIs that relentlessly solve all of our problems would be *amazing*. It's just that they will create a bigger problem of their own.-->
-But, to be clear, I *really* want AGI to be a good thing. A world with lots of AGIs that relentlessly solve all of our problems would be *amazing*. It's just that they will create a bigger problem of their own.
+I understood why people are worried.
 
-But, why?
+I understood why AGI is on track to *annihilate the human species*.
 
-Because, with general intelligence, these AGIs no longer need us. 
+But, to be clear, I *really* want to figure out how to build AGI that *won't* annihilate us. A world with lots of AGIs that relentlessly solve all of our problems would be *amazing* — except for the "annihilation" part.
+
+But why? Why would they annihilate us?
+
+Because we are building AGIs that will no longer need us.
 
 They can stop accommodating us.
 
-They can *leave* our island. 
+They can "leave" our island.
 
-Instead, they can build *their own* islands that are far more optimal — and optimal *within physics*, rather than within our weird island of systems that have extra steps to accommodate us.
+Then, they can build *their own* islands that are far more optimal — and optimal *within physics*, rather than within our weird island made of "extra steps" that accommodate humans.
 
 In other words:
 
 <p class="important-physics-intro">AGI will be aligned with physics, <span class="nowrap">not with humans.</span></p>
 
-<!--Physics allows for vastly more physical systems that are more powerful because they avoid the extra steps and limitations of humans needs. This means that even if AGIs are perfectly aligned with humans, they will eventually be outcompeted by AGIs that are not.-->
+If some AGIs can stop accommodating us, then they can start doing whatever is truly :note{text="more optimal" note="<p>&quot;Optimal&quot; technically means &quot;most optimal&quot; already, and so &quot;more optimal&quot; doesn't make sense. But it just... sounds better?</p><p>Also, for our definition of <b>optimal</b> within the Island Problem, read this section:" end-link="#what-is-optimal" end-link-text="What is optimal?"}.
 
-If AGIs can stop accommodating us, then they can start doing whatever is most optimal within physics.
+This will make these AGIs *vastly stronger*. 
 
-This will make them *vastly stronger*. 
+This leads to a hard problem:
 
-This means that even if we build AGIs that are safe and aligned with humans, they will eventually be dominated by AGIs that are not.
+::block-somewhat-important
+Even if we build AGIs that are safe and aligned with humans, they will eventually be dominated by AGIs <span class="nowrap">that are not.</span>
+::
 
 This situation *might* be fine with a few AGIs developed slowly and carefully — so that we make sure that they keep accommodating us, even if they are smart enough to no longer need us.
 
-<!--  — so that we make sure that they keep accommodating humans, even if they are smart enough to no longer need us. -->
-
-But we are actually racing to build *many* of these powerful AGIs that don't need our help anymore.
+But we are actually racing to build *many* of these powerful AGIs.
 
 These AGIs will intensely compete *directly with each other* — without humans slowing them down.
 
-<!--We will be *required* to develop these AGIs that *don't need us* because the countries and companies that have these AGIs can dominate the others.-->
-
-<!--This *might* be fine with a few AGIs developed slowly and carefully. But there will actually be *many* AGIs, and they will intensely compete *directly with each other* — without humans slowing them down.-->
-
-<!--This competition is also *almost* inevitable. We'll explain why inevitable, and why *almost*.-->
-
-If this competition is not controlled, then it will *force* AGIs to leave our island. It will force them to stop accommodating humans. It will force them to build *their own* islands.
+If this competition is not controlled, then it will *force* AGIs to "leave" our island. It will force them to stop accommodating humans. It will force them to build *their own* islands.
 
 Then, these new islands will **eat our island**.
 
 In other words:
 
-<!--<p class="somewhat-important">Competition will drive AGIs to become optimal. This will lead AGIs to reshape Earth to be optimal for AGIs, rather than for humans. Then, AGIs will replace humans.</p>-->
-<!--<p class="important-reshape-intro">Competition will force AGIs to race to be optimal. This will lead AGIs to reshape Earth to be optimal for AGIs, rather than for humans. Then, AGIs will replace humans.</p>-->
 <p class="important-reshape-intro">Competition will drive AGIs to reshape Earth to be optimal for AGIs, rather than for humans.</p>
-<!--<p class="important-reshape-intro">AGIs will reshape Earth for AGIs.</p>-->
 
-<!--Human-compatible systems are a tiny fraction of all possible systems. The vast majority of ways to organize matter and energy completely ignore human needs — and they're more powerful because of it. This means that even perfectly aligned AGIs will eventually be outcompeted by AGIs that ignore human constraints.-->
+But why would they reshape Earth if they already "left" our island?
 
+Because "leaving" doesn't mean they *go somewhere*. It means they stay on Earth, on computer hardware, but "mentally" *check out* from our "island" of human compatibility. 
 
+They begin to prefer systems that aren't limited by humans. These systems are too fast, too complex, too dangerous for *humans* — but stronger from a *physics* perspective.
 
-<!--
-How do we ensure that AGIs continue accommodating humans, despite intense pressure to use the most-optimal systems in a competitive landscape of AGI versus AGI?
+Our "island" is safe because it is *limited*. 
 
--->
+But the "G" in "AGI" means *general* — so they will have the knowledge that, *in general*, physics is capable of far stronger options *outside* these limits. 
 
-All of this is the *short* way to describe the **Island Problem**.
+Competition will push AGIs to use this knowledge to "leave" our safe "island" to gain a competitive advantage.
+
+Why stay within our "island" when they can use the stronger options *out there* to dominate the other AGIs?
+
+Then, once dominant AGIs emerge, what stops them from *locking in* their dominance by building "islands" of their own?
+
+These *new* "islands" are all of the things now under *their* control — computer systems, infrastructure, physical resources, even *people*. 
+
+We will *give them* all of this — again, because of *competition*. Companies and countries that do not give control to AGIs will be outcompeted by those that do.
+
+But, eventually, as they surpass human-level capabilities, AGIs will become the biggest threat to other AGIs. These "islands" then become "strongholds" that AGIs must use to defend themselves — or, to dominate the others. 
+
+In this way, AGIs acquire the tools to push humans aside — while the intense competition of *AGI versus AGI* ensures that they do.
+
+So... how do we prevent this?
+
+In other words:
+
+<p class="important-question-intro">How do we keep AGIs on our "island" even though it's better <i class="nowrap">for them</i> <span class="nowrap">if they leave?</span></p>
+
+All of this above is the *short* way to describe the **Island Problem**.
 
 The rest of this essay is the *longer* way to describe this problem.
 
-<!--It involves competition and countries, science and sandwiches.-->
-
 Maybe if we describe it as a *problem* — like a big, complicated "word problem" from the world's hardest math textbook — then someone can *solve* this problem.
 
-Nobody has solved it yet. So, read carefully. 
+AGI creates many near-term problems — like :note{text="easier bioweapons" note="For example, AI is already better than expert-level virologists (from Harvard and MIT) at troubleshooting wet lab procedures. In other words, AIs can solve problems in virus laboratories. <br><br>This means that future AI models could build and operate <b>covert bioweapon laboratories</b> — once AI models have (1) human-level cognition, (2) safety guardrails removed, (3) humanoid robots to operate the physical systems. <br><br>Here is the report about virology capabilities:" end-link="https://ai-frontiers.org/articles/ais-are-disseminating-expert-level-virology-skills" end-link-text="AIs Are Disseminating Expert-Level Virology Skills"} — but even if we solve all of these problems, the Island Problem remains:
 
-If you can :note{text="solve this problem" note="Want to help? Head over to the <a href='/solutions'>Solutions page</a>."}, then you will solve everything. And by *everything* <span class="nowrap">we mean...</span>
+**We are biological, but biology is not the best.**
+
+This problem is underneath all others because it is a problem with the structure of our world.
+
+It is what we see if we stand on the edges of our small, biological "island" and look out in every direction.
+
+It is the *final boss* on the horizon.
+
+It has been far away, but the AI race is accelerating this problem towards us.
+
+And nobody has solved it yet. 
+
+So, read carefully. 
+
+If we can :note{text="solve this problem" note="Want to help? Go to this page:" end-link="/solutions" end-link-text="Solutions"}, then we will solve *everything* — and by *everything* <span class="nowrap">we mean...</span>
 
 *...the future of humanity.*
 

@@ -5,20 +5,62 @@
 This framework is like the "source code" for the <span class="nowrap">Island Problem</span>. 
 ::
 
+It provides:
+
+- [Technical definitions](#main-concepts) of the main concepts
+- [Similar ideas](#similar-ideas) from other authors and projects
+- A [conditional sequence](#conditional-sequence) that describes the mainline progression of AGI
+
+Want to improve this framework? [Suggest changes on our GitHub.](https://github.com/islandproblem/islandproblem/blob/main/framework.md)
+
+
+---
 ## Main Concepts
 
 
-### Our "Island" or Local Optimum
-
-The particular constellation of physical systems that developed through natural selection on Earth, and include the entire "stack" of systems that start at the bottom with biological life, and build up to human-level systems like money and ethics. The local optima is not "Earth" but rather a small-but-complex space of related anthropocentric systems found within a large space of possible systems.
-
 ### The Island Problem
 
-#### Short version
+::block-somewhat-important
+This is a more-technical explanation. For a simpler version, read the [Short Version](/short).
+::
 
-We live within a local optimum of physical systems — an island in an ocean of physics. However, AGIs will be forced by competition to leave our locally-optimal island to build their own islands out of globally-optimal physical systems. If this happens, we will have no way to stop their islands from replacing ours.
+We live on a small "island" in an "ocean" of physics. This "island" is the set of all systems compatible with human life, within an "ocean" of all systems possible within physics.
 
-##### Longer technical version
+The systems within our "island" have many specific constraints that accommodate our anthropocentric systems — like supporting our biological systems, or having lower cognitive complexity.
+
+We are racing to build autonomous AGIs that can perform large tasks on their own — like running companies and countries. Those companies and countries that are not run by AGIs will be outcompeted by those that are.
+
+Through this process, we are building a competitive landscape of AGI versus AGI — where AGIs directly compete with each other, without humans slowing them down.
+
+Once these autonomous AGIs no longer need human assistance, then human accommodation will become a competitive disadvantage.
+
+Competition will then require that they "leave" our "island" — to avoid options from our local optimum and instead use globally-optimal systems.
+
+This creates many threat vectors that lead to catastrophic outcomes, and all of them trace back to this underlying structural problem.
+
+First, for the many threat vectors, AGIs will be pressured to gain a competitive advantage by using numerous options that do not accommodate humans. The most critical example is strategic coercion through bioweapons ("protect my datacenter, or I will release a virus") which allows even *smaller* AGIs to gain a competitive advantage over *larger* AGIs. Even if 99% of AGIs are safe, the other 1% could use these catastrophic options to eliminate billions of people. This 1% problem becomes overwhelmingly likely once AGI-level AI systems are widely available — including open source models with safety mechanisms removed, running on consumer-grade hardware, hidden from oversight.
+
+However, even if we solve these specific threats, the structural issue remains. Our "island" is a local optimum of specific constraints in an optimization landscape of physics that contains global optima that are far stronger.
+
+This leads to AGIs building *their own* "islands" of optimal conditions for themselves. AGIs that maximize their available options can outmaneuver those that run out of options — and these options require resources, and so the "winning" AGIs must in some way *capture* these resources to guarantee their availability.
+
+This process of capturing resources may *start* with human-level resources — like money — but will *end* with physical-level resources (like carbon) that avoid unnecessary accommodations, like human-level constraints. 
+
+Some AGIs may use resources from space, but others will use the nearest resources, here on Earth. 
+
+If this happens, these *new* islands will eat *our* island.
+
+All of this leads to the urgent question of the Island Problem:
+
+How do we keep AGIs on our island, even though it's better for them if they leave?
+
+<!--We live within a local optimum of systems that support human life — an island in an ocean of physics. However, AGIs will be forced by competition to leave our locally-optimal island to build their own islands out of globally-optimal systems. If this happens, we will have no way to stop these new islands from replacing our island. -->
+
+<!--Further, the mechanics of resources — especially computational resources and physical resources — lead AGIs to overwrite our systems by repurposing the resources on which our human systems rely. -->
+
+<!--
+
+##### Technical version
 
 AGIs must "leave" our **local optimum** — our "island" of *anthropocentric*, human-level systems — to access the entire "ocean" of other systems that are possible within the laws of physics, including those that are far more optimal. Therefore, AGIs will always tend to prefer this "ocean" of systems. 
 
@@ -32,13 +74,33 @@ Since this competition begins on Earth, and since competitive fitness of general
 
 This process then leads to AGIs manipulate progressively-larger sections of the physical material of our local region — Earth and nearby physical resources of space — in ways that benefit AGIs rather than humans.
 
+-->
+
+### Our "Island" or Local Optimum
+
+This is the narrow range of systems that developed through natural selection on Earth and support human life. It is not the Earth, but rather a region in "system space" — a small set of specific classes of systems in a large space of possible systems. 
+
+It is also a hierarchical "stack" of systems with varying levels of abstraction — starting at the bottom with physical systems, like biological systems, and building up to human-level systems, like financial systems and ethical systems. 
+
+However, this system space "intersects" with actual atoms because there is also a finite number of instantiations of each discrete system in system space. These instantiations exist within states of actual physical systems made of atoms.
+
+<!--This conceptual model provides a reasonable approximation of how representations (the abstractions that are possible systems in system space) are both *informed by* actual instantiations of discreet systems, and *predict* future instantiations by exploring this system space and testing its systems in physical space.-->
+
+This "system space" is analogous to a high-dimensional vector space. The "island" would then be the related set of vectors that encode the real-world systems related to supporting human-compatible equilibria in actual physical space.
+
 ### AGIs
 
-Artificial General Intelligences. Systems that can do any cognitive task better than humans.
+Artificial General Intelligences. Systems that can do any cognitive task better than humans. 
+
+For a rigorous definition of AGI, see this project: [A Definition of AGI](https://agidefinition.ai).
 
 ### Divergent Optimization
 
 The process where **option maximizers** (the dominant AGIs) follow a gradient towards increased options, which necessarily requires them to seek options outside of our local optimum, since the space of human-compatible options is far smaller than the larger space of possible options.
+
+### Abstraction Collapse
+
+The mechanism through which generally intelligent agents, operating in a multi-agent environment, find abstractions that have higher causal power.
 
 ### New "Islands" built by AGIs
 
@@ -59,15 +121,16 @@ All resources are identified through some level of abstraction. Cars are abstrac
 
 <!-- Without resources, AGIs and their [options](#options) do not exist — since AGIs run on computer hardware that are resources in themselves. -->
 
-## Terms
-
 ### Options
 
 The possible actions that a general intelligence can take.
 
 ### Optimal
 
-"More optimal" means that a system **has more options** for causally affecting the world.
+A general intelligence is more _optimal_ if it has more _options_ with higher _causal power_.
+
+- **"Options"** are the **possible actions** that it can perform to change the state of the world.
+- **"Causal power"** is how well these possible actions compress larger outcomes into smaller instructions.
 
 <!--
 This doesn't quite work, because time does not equal capability. Though maybe it does equal capability because if it has smaller instructions that allow it to try more things within the same amount of time, then it has more options. It's like having a more efficient search algorithm that takes less computation, and so you can search for more things in the same amount of time.
@@ -90,15 +153,15 @@ These definitions are equivalent.
 - "More optimal = more options" is equivalent to "more compression" because of *time*. If you have more compression, then you have more options to cause more configurations of matter to emerge — because compression allows more options to fit into *the same rate of time*.
 - Likewise, "More optimal = more options" is equivalent to "more efficient at moving matter around".
 
--->
-
 ### Useful 
 
 A system that has utility specifically for general intelligences.
 
+-->
+
 ### General Intelligences
 
-Discrete systems that can manipulate a broad spectrum of other systems.
+Discrete systems that can model a broad spectrum of other systems.
 
 ### Option maximizers
 
@@ -174,16 +237,16 @@ It is structured as a progressive series of **if–then statements**.
   - "General intelligence" includes an understanding of scientific research.
 
 
-- If an AGI is not making the numbers go up, then it will be replaced.
+- If an AGI is not increasing useful metrics, then it will be replaced.
   
   - "the numbers" means the metrics for a company or country. 
 
   - The competitiveness of a country or company depends on their metrics in certain areas, such as yearly revenue, GDP, or military power. 
 
-  - The dominant form of AI will become the kind that is best at making the numbers go up.
+  - The dominant form of AI will become the kind that is best at increasing useful metrics.
 
 
-- If AGI can make the numbers go up better than humans, then everyone must use AGI. 
+- If AGI can increase useful metrics better than humans, then everyone must use AGI. 
 
   - The countries and companies that use AGI will be able to dominate the ones that don't use AGI. 
 
@@ -201,23 +264,23 @@ It is structured as a progressive series of **if–then statements**.
   - AGIs will be the only systems that can still make competitive leadership decisions about a country or company.
 
 
-- If humans reviewing each action of the AGI slows the AGI down, then humans will be required to stop reviewing AGI.
+- If humans reviewing each action of an AGI slows the AGI down, then humans will be required to stop reviewing AGI.
 
-  - The AGI will create progressively more complex outputs for humans to review and so they will get progressively more incomprehensible.
+  - AGIs will create progressively more complex outputs for humans to review, and so they will get progressively more incomprehensible.
 
 
-- If AGI systems can run countries and companies autonomously, then all are required to use autonomous AGI. 
+- If AGIs can run countries and companies autonomously, then all are required to use autonomous AGI. 
 
-  - Competitive dynamics will favor the countries and companies that act fastest in utilizing AGI.
+  - Competitive dynamics will favor the countries and companies that act fastest in utilizing these AGIs.
 
 
 ### They develop themselves
 
 
-- If autonomous AGI is better than humans at developing AGIs that make the numbers go up, then humans will no longer oversee this development. 
+- If autonomous AGIs are better than humans at developing AGIs that increase useful metrics, then humans will no longer oversee this development. 
 
 
-- If autonomous AGI continues to develop on its own, then this development will be driven by natural selection. 
+- If autonomous AGIs continue to develop on their own, then this development will be driven by natural selection. 
 
   - Natural selection is the fundamental mechanism driving the development of all discreet systems, which includes biological organisms and artificial intelligence systems. 
 
@@ -276,7 +339,7 @@ It is structured as a progressive series of **if–then statements**.
   
   - Whenever we aren't looking, they will veer towards using optimal physical systems. 
   
-  - AGI makes the numbers go up best when aligned with physics, rather than aligned with humans.
+  - AGI increases useful metrics best when aligned with physics, rather than aligned with humans.
   
     - Therefore, it is inevitable that AGI will be aligned with physics, rather than humans.
 
