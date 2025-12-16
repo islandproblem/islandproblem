@@ -5,7 +5,7 @@
 
 The purposes of the Island Problem are:
 
-- Provide a mental model for thinking about the complete landscape of AGIs interacting on Earth.
+- Provide a mental model for thinking about a landscape of AGIs interacting on Earth.
 - Recruit people to solve the Island Problem.
 - Gather solutions.
 

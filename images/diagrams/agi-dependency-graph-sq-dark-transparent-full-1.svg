@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200px" height="1200px" viewBox="0 0 1200 1200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>agi-dependency-graph-sq-dark-transparent-full-1</title>
+    <defs>
+        <path d="M0,0 L1200,0 L1200,1200 L0,1200 L0,0 Z" id="path-1"></path>
+        <path d="M0,0 L1069,0 L1069,1100 L0,1100 L0,0 Z" id="path-2"></path>
+    </defs>
+    <g id="agi-dependency-graph-sq-dark-transparent-full-1" stroke="none" fill="none" xlink:href="#path-1">
+        <g id="agi-dependency-graph-sq-dark-transparent-cropped-1" transform="translate(66, 55)" xlink:href="#path-2">
+            <text id="If-AI-systems-can-ma" font-family="Roboto-Bold, Roboto" font-size="57" font-weight="bold">
+                <tspan x="16" y="60" fill="#FFFFFF">If AI systems can</tspan>
+                <tspan x="458.751953" y="60" fill="#000000"> </tspan>
+                <tspan x="472.946289" y="60" fill="#79FF58">maintain themselves</tspan>
+            </text>
+            <rect id="Rectangle-2" stroke-opacity="0.483513327" stroke="#6EAFD6" stroke-width="8" fill="#031A27" fill-rule="evenodd" x="494" y="192" width="571" height="621" rx="18"></rect>
+            <rect id="Rectangle" stroke-opacity="0.351811428" stroke="#FF7676" stroke-width="8" fill="#1D140C" fill-rule="evenodd" x="5" y="381" width="429" height="432" rx="18"></rect>
+            <text id="sandwiches" font-family="Roboto-Medium, Roboto" font-size="36" font-weight="400" fill="#FF8D8D">
+                <tspan x="119.962891" y="442">sandwiches</tspan>
+            </text>
+            <text id="organic-chemistry" font-family="Roboto-Bold, Roboto" font-size="42" font-weight="bold" fill="#FFFFFF">
+                <tspan x="54.315918" y="917">organic chemistry</tspan>
+            </text>
+            <text id="physics" font-family="Roboto-Bold, Roboto" font-size="56" font-weight="bold" fill="#FFFFFF">
+                <tspan x="401.195312" y="1072">physics</tspan>
+            </text>
+            <text id="inorganic-chemistry" font-family="Roboto-Bold, Roboto" font-size="42" font-weight="bold" fill="#FFFFFF">
+                <tspan x="587.986816" y="917">inorganic chemistry</tspan>
+            </text>
+            <text id="electronics" font-family="Roboto-Medium, Roboto" font-size="42" font-weight="400" fill="#48BBFF">
+                <tspan x="677.157807" y="761">electronics</tspan>
+            </text>
+            <text id="computer-systems" font-family="Roboto-Medium, Roboto" font-size="42" font-weight="400" line-spacing="41" fill="#48BBFF">
+                <tspan x="580" y="650">computer systems </tspan>
+            </text>
+            <text id="biology" font-family="Roboto-Bold, Roboto" font-size="42" font-weight="bold" fill="#FF8D8D">
+                <tspan x="147.265625" y="767">biology</tspan>
+            </text>
+            <text id="humans" font-family="Roboto-Bold, Roboto" font-size="60" font-weight="bold" fill="#FF8D8D">
+                <tspan x="106.643555" y="609">humans</tspan>
+            </text>
+            <text id="shrimp" font-family="Roboto-Medium, Roboto" font-size="38" font-weight="400" fill="#FF8D8D">
+                <tspan x="279.384766" y="681">shrimp</tspan>
+            </text>
+            <text id="lemurs" font-family="Roboto-Medium, Roboto" font-size="38" font-weight="400" fill="#FF8D8D">
+                <tspan x="40.8764648" y="681">lemurs</tspan>
+            </text>
+            <text id="laws" font-family="Roboto-Medium, Roboto" font-size="40" font-weight="400" fill="#FF8D8D">
+                <tspan x="289.386719" y="500">laws</tspan>
+            </text>
+            <text id="then-they-are-still" font-family="Roboto-Regular, Roboto" font-size="46" font-weight="normal" line-spacing="73">
+                <tspan x="16" y="139" fill="#FFFFFF" fill-opacity="0.8">then they are still okay</tspan>
+                <tspan x="16" y="212" fill="#FFFFFF" fill-opacity="0.8">if all of</tspan>
+                <tspan x="155.459961" y="212" letter-spacing="4.27906977" fill="#FFFFFF" fill-opacity="0.817382812"> </tspan>
+                <tspan x="171.126726" y="212" font-family="Roboto-Medium, Roboto" font-weight="400" fill="#FF8D8D">these things</tspan>
+                <tspan x="424.508562" y="212" fill="#FF8D8D"> </tspan>
+                <tspan x="435.896257" y="212" fill="#000000" fill-opacity="0.646216299"></tspan>
+                <tspan x="16" y="285" fill="#FFFFFF" fill-opacity="0.8">went away.</tspan>
+            </text>
+            <text id="money" font-family="Roboto-Medium, Roboto" font-size="40" font-weight="400" fill="#FF8D8D">
+                <tspan x="37.1191406" y="499">money</tspan>
+            </text>
+            <text id="artificial-intellige" font-family="Roboto-Bold, Roboto" font-size="50" font-weight="bold" fill="#95D8FF">
+                <tspan x="550.348633" y="529">artificial intelligence</tspan>
+            </text>
+            <line x1="371.394531" y1="1025.5" x2="261.5" y2="948.5" id="Line" stroke-opacity="0.582778033" stroke="#979797" stroke-width="4" stroke-linecap="square"></line>
+            <line x1="621.5" y1="1025.5" x2="735.929687" y2="951" id="Line" stroke-opacity="0.582778033" stroke="#979797" stroke-width="4" stroke-linecap="square"></line>
+            <line x1="781" y1="857" x2="781" y2="784.566406" id="Line" stroke="#0091E7" stroke-width="5" stroke-linecap="square"></line>
+            <line x1="210.5" y1="857" x2="210.5" y2="790.566406" id="Line" stroke="#FF8D8D" stroke-width="5" stroke-linecap="square"></line>
+            <line x1="780.5" y1="712" x2="780.5" y2="672.566406" id="Line" stroke="#0091E7" stroke-width="5" stroke-linecap="square"></line>
+            <line x1="780" y1="594" x2="780" y2="558" id="Line" stroke="#0091E7" stroke-width="5" stroke-linecap="square"></line>
+            <line x1="807.256044" y1="466.5" x2="888.417173" y2="343" id="Line" stroke="#0091E7" stroke-width="4" stroke-linecap="square"></line>
+            <line x1="145.691406" y1="550" x2="113.941406" y2="518.050781" id="Line" stroke="#FF8D8D" stroke-width="4" stroke-linecap="square"></line>
+            <line x1="311.691406" y1="550" x2="276.941406" y2="519.050781" id="Line" stroke="#FF8D8D" stroke-width="4" stroke-linecap="square" transform="translate(294.3164, 534.5254) scale(-1, 1) translate(-294.3164, -534.5254)"></line>
+            <line x1="292.699219" y1="728" x2="323.417969" y2="700" id="Line" stroke="#FF8D8D" stroke-width="4" stroke-linecap="square"></line>
+            <line x1="102.699219" y1="725" x2="133.417969" y2="700" id="Line" stroke="#FF8D8D" stroke-width="4" stroke-linecap="square" transform="translate(118.0586, 712.5) scale(-1, 1) translate(-118.0586, -712.5)"></line>
+            <text id="systems-made-by-AI" font-family="Roboto-Medium, Roboto" font-size="38" font-weight="400" fill="#48BBFF">
+                <tspan x="848.286133" y="273">systems </tspan>
+                <tspan x="824.851562" y="323">made by AI</tspan>
+            </text>
+            <text id="maintenance" font-family="Roboto-Medium, Roboto" font-size="36" font-weight="400" fill="#79FF58">
+                <tspan x="517.506836" y="380">maintenance</tspan>
+            </text>
+            <text id="robotics" font-family="Roboto-Medium, Roboto" font-size="40" font-weight="400" fill="#79FF58">
+                <tspan x="638.738281" y="261">robotics</tspan>
+            </text>
+            <path id="Line" d="M667.450818,284.701964 L670.774599,286.927381 L669.66189,288.589271 L649.986,317.974 L658.296501,323.538254 L634.972656,336.804688 L638.353816,310.185751 L646.663,315.749 L666.33811,286.363854 L667.450818,284.701964 Z" fill="#29CA00" fill-rule="nonzero"></path>
+            <path id="Line" d="M737,293.476562 L753.137682,314.914268 L743.301,316.72 L770.467103,464.638745 L770.828358,466.605848 L766.894152,467.328358 L766.532897,465.361255 L739.367,317.443 L729.532445,319.249331 L737,293.476562 Z" fill="#29CA00" fill-rule="nonzero"></path>
+            <path id="Line" d="M289.74087,248.66516 L290.702278,250.972907 C295.785131,263.173702 299.287837,277.578368 301.222514,294.187308 C302.417862,304.449204 302.109878,316.462758 300.30926,330.237732 L312.232604,332.490205 L292.603271,358.296004 L283.736231,327.109058 L295.387975,329.308744 C297.106109,316.034862 297.391995,304.51737 296.256094,294.765817 C294.372434,278.594847 290.978625,264.638014 286.086784,252.895722 L285.125377,250.587975 L289.74087,248.66516 Z" fill="#DF9090" fill-rule="nonzero"></path>
+            <path id="Line" d="M623.603582,404.570968 L624.688182,406.251337 L645.665,438.75 L654.067018,433.327962 L657,460 L633.90258,446.343163 L642.304,440.92 L621.327443,408.420538 L620.242843,406.740168 L623.603582,404.570968 Z" fill="#29CA00" fill-rule="nonzero"></path>
+            <path id="Line" d="M587.14525,94.1419264 L592.768336,96.2349878 L591.721805,99.0465307 C576.423622,140.145661 572.266605,205.460498 579.354376,294.863388 L593.255061,293.574571 L579.469597,329 L559.400533,296.716372 L573.379568,295.418658 C566.219223,205.175667 570.424364,139.063199 586.09872,96.9534693 L587.14525,94.1419264 Z" transform="translate(580.9551, 213.5) scale(-1, 1) translate(-580.9551, -213.5)" fill="#1D8E00" fill-rule="nonzero"></path>
+            <path id="Line" d="M342.933589,560.223361 L346.512854,565.038842 L344.105114,566.828475 L339.289633,570.407741 L336.881892,572.197373 L333.302627,567.381892 L335.710367,565.592259 L340.525848,562.012994 L342.933589,560.223361 Z M359.787773,547.695932 L363.367038,552.511413 L360.959298,554.301046 L356.143817,557.880311 L353.736076,559.669944 L350.156811,554.854463 L352.564551,553.06483 L357.380032,549.485565 L359.787773,547.695932 Z M376.641957,535.168503 L380.221222,539.983984 L377.813482,541.773617 L372.998001,545.352882 L370.59026,547.142515 L367.010995,542.327034 L369.418735,540.537401 L374.234216,536.958136 L376.641957,535.168503 Z M393.496141,522.641074 L397.075406,527.456555 L394.667666,529.246187 L389.852185,532.825453 L387.444444,534.615086 L383.865179,529.799605 L386.272919,528.009972 L391.0884,524.430706 L393.496141,522.641074 Z M410.350325,510.113644 L413.92959,514.929126 L411.52185,516.718758 L406.706369,520.298024 L404.298628,522.087656 L400.719363,517.272175 L403.127103,515.482543 L407.942584,511.903277 L410.350325,510.113644 Z M427.204509,497.586215 L430.783774,502.401696 L428.376034,504.191329 L423.560553,507.770595 L421.152812,509.560227 L417.573547,504.744746 L419.981287,502.955113 L424.796768,499.375848 L427.204509,497.586215 Z M444.058693,485.058786 L447.637958,489.874267 L445.230218,491.6639 L440.414737,495.243165 L438.006996,497.032798 L434.427731,492.217317 L436.835471,490.427684 L441.650952,486.848419 L444.058693,485.058786 Z M460.912877,472.531357 L464.492142,477.346838 L462.084402,479.136471 L457.268921,482.715736 L454.86118,484.505369 L451.281915,479.689888 L453.689655,477.900255 L458.505136,474.32099 L460.912877,472.531357 Z M477.767061,460.003928 L481.346326,464.819409 L478.938586,466.609041 L474.123105,470.188307 L471.715364,471.97794 L468.136099,467.162459 L470.543839,465.372826 L475.35932,461.79356 L477.767061,460.003928 Z M494.621245,447.476498 L498.20051,452.29198 L495.79277,454.081612 L490.977289,457.660878 L488.569548,459.45051 L484.990282,454.635029 L487.398023,452.845397 L492.213504,449.266131 L494.621245,447.476498 Z M511.475429,434.949069 L515.054694,439.76455 L512.646954,441.554183 L507.831473,445.133449 L505.423732,446.923081 L501.844466,442.1076 L504.252207,440.317967 L509.067688,436.738702 L511.475429,434.949069 Z M555,406.335938 L537.853526,440.262305 L529.501138,429.026754 L524.685656,432.606019 L522.277916,434.395652 L518.69865,429.580171 L521.106391,427.790538 L525.921872,424.211273 L525.922,424.21 L517.571021,412.974579 L555,406.335938 Z" fill-opacity="0.710229013" fill="#FF7E7E" fill-rule="nonzero"></path>
+            <line x1="211" y1="631" x2="211" y2="714" id="Line" stroke="#FF8D8D" stroke-width="5" stroke-linecap="square"></line>
+            <line x1="211" y1="465" x2="211" y2="552" id="Line" stroke="#FF8D8D" stroke-width="5" stroke-linecap="square"></line>
+        </g>
+    </g>
+</svg>

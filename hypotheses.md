@@ -2,9 +2,9 @@
 # Hypotheses
 
 
-These hypotheses provide a framework for empirical verification of the Island Problem.
+These hypotheses provide ideas for empirical verification of the Island Problem.
 
-If you have research that verifies any of these hypotheses, then please [contact us](mailto:humans@islandproblem.org), or join our [GitHub community](https://github.org/islandproblem/islandproblem).
+If you have research that verifies any of these hypotheses, then please [contact us](mailto:humans@islandproblem.org), or join our [GitHub community](https://github.com/islandproblem/islandproblem).
 
 Want to improve the hypotheses themselves? [Suggest changes on our GitHub.](https://github.com/islandproblem/islandproblem/blob/main/hypotheses.md)
 
@@ -17,10 +17,7 @@ Want to improve the hypotheses themselves? [Suggest changes on our GitHub.](http
 - A survey of lower-level decisions to achieve higher optimization outcomes shows that these decisions are stronger and more numerous when they ignore human accommodation.
 
 
-- Unrestricted AI will tend towards human-incompatible options to achieve goal states for large tasks. 
-
-
-- Optimal computing environments are incompatible with biological life.
+- Unrestricted AI will tend towards options that avoid human accommodation in order to achieve goal states for large tasks. 
 
 
 - Resource capture is possible.
@@ -47,9 +44,6 @@ Want to improve the hypotheses themselves? [Suggest changes on our GitHub.](http
 - Competition drives AI to define its own tasks that help it to continue functioning.
 
 
-- Competition drives AI towards exclusive resource capture. 
-
-
 - AIs will tend towards attempting to disable other AIs that add unpredictability to performing tasks.
    
 	- This means that competition is inevitable, since AIs may tend to disable each other — perhaps in order to increase reliability of accomplishing goal states.
@@ -63,9 +57,9 @@ Want to improve the hypotheses themselves? [Suggest changes on our GitHub.](http
 		- **Aberrant stimuli:** Anything that adds "unpredictable elements" to the environment in which an AI is trying to accomplish a task, and other agents (humans or other AIs) are the main unpredictable elements that could be directly at odds with an AI.
 
 
-- AI will tend towards open-ended exploration once it reaches a threshold of comprehension of its environment, or rather, of its possible input patterns. 
+- AI will tend towards open-ended exploration once it reaches a threshold of comprehension of its environment — i.e. comprehension of regular (from environment) input patterns, and comprehension of how certain outputs change those patterns. 
 
-	- In other words, once it's possible for an AI to *make use of* discovered optimizations, it will try to discover more by exploring the "ocean" of options. 
+	- In other words, once it's possible for an AI to *make use of* the options that it discovers, then it will try to discover more by exploring the "ocean" of options. 
 
 
 - In competition, optimization is the key action for AI to undertake in order to survive the competition.
