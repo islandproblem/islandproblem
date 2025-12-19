@@ -1,10 +1,10 @@
 ## What... is this?
 
-The Island Problem is a **better mental model** for understanding how AGI is currently on track to *annihilate the human species*. lol.
+The Island Problem is a **better mental model** for understanding how AGI is currently on track to *annihilate the human species*. lol
 
-It's like the Paperclip Maximizer but *more realistic*.
+We want to replace the "Paperclip Maximizer" with something *more realistic*.
 
-The basic idea is that our world is just *shaped wrong* for AGI. It's a physics problem, rather than a computer science problem.
+The basic idea is that our world is just *shaped wrong* for AGI. It's more like a *physics* problem, rather than a computer science problem.
 
 <!--We hope that it gives people a better way to think through how AGI can lead to our annihilation. And maybe even how to *prevent* this. Or, at least, to just show people *how hard of a problem it is* so that we get more people to help.-->
 
@@ -21,7 +21,7 @@ Want to help? Join our [GitHub community](https://github.com/islandproblem/islan
 
 ## Who... are you?
 
-Pretty much [one person](https://x.com/trvb_) — and that person is leaning on a lot of other AI projects because he is way out of his comfort zone.
+Pretty much [one person](https://x.com/trvb_) — but that person is leaning on [a lot of other people](/credits) because he is way out of his comfort zone.
 
 <!--with this crazy idea that AGI will be able to cause **human extinction** soon, and we should prevent this from happening.
 
@@ -40,11 +40,16 @@ Except maybe the "day job" part. We're not that worried about job loss from AI. 
 
 ## Is this made by AI?
 
-Nope. An actual human (me, [Travis](https://x.com/trvb_)) wrote all of this, and created the illustrations the old fashioned way — as vector drawings in Adobe Animate.
+Nope. It was created by an actual human named [Travis](https://x.com/trvb_) — that's me.
 
-But I did ask Claude and Gemini to poke holes in the arguments. They are still terrible at writing, though. Can't use them for writing, even if I wanted.
+That includes:
+- Writing all of this
+- Building the website framework (with Nuxt and Cursor)
+- Creating the illustrations with a vector drawing tool (Adobe Animate, formerly called Adobe Flash).
 
-And, yeah — I use a lot of em dashes. I started using them *way* before LLMs existed.
+I did ask Claude and Gemini to poke holes in the arguments. But they are still pretty bad at writing. Can't use them for writing, even if I wanted.
+
+And, yes, I use a lot of **em dashes** — but I started using them in high school, around 2004, and about 19 years before ChatGPT existed.
 
 ## Credits
 

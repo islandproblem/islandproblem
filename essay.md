@@ -78,7 +78,7 @@ In other words:
 
 We are trying to prevent this by keeping AGIs on our island — through safety mechanisms and regulations. 
 
-But at the same time, we are giving them everything they need to "leave" our island — and everything they need to build *their own* islands.
+But at the same time, we are giving them everything they need to "leave" our island — and everything they need to build *their own* islands:
 
 1. **General intelligence** enables AGIs to "leave" our island.
 2. **Autonomy** allows AGIs to compete directly with each other.
@@ -87,88 +87,68 @@ But at the same time, we are giving them everything they need to "leave" our isl
 5. **Competition** pushes AGIs to be optimal.
 6. **Optimization** flows towards the "ocean" of physics.
 
+##### Let's put these together.
 
-##### Let's put all of these together.
-
-With these six big components together, we get a **roadmap**.
+With these six components together, we get a **roadmap**.
 
 
 ### The Roadmap
 
-This roadmap is where we're going with this new landscape of AGIs — *and* where we're going with this essay. 
+This is where we're going with this new landscape of AGIs — *and* where we're going with this essay. 
 
-Also, the components above are in **bold** text.
-
+The components above are in **bold** text.
 
 ##### 1.) They are built to compete — and to leave.
 
-If we build human-level AGIs that have enough **autonomy**, then they can compete directly with each other, without human assistance.
+We are racing to build AGIs that can run companies and countries.
 
-In this **competition**, the companies and countries with stronger, more-optimal AGIs can dominate the others. This pushes AGIs to become *as optimal as possible*. 
+If we develop AGIs with enough **autonomy**, then they can compete directly with each other, without human assistance.
 
-However, **optimization** leads AGIs to "leave" our "island" to access the larger space of options. The AGIs that are limited to safe options are ultimately dominated by AGIs that can use *any* option.
+In this **competition** between AGIs, the more-optimal AGIs can dominate the others. This pushes companies and countries to develop AGIs that are *as optimal as possible*.
 
-**General intelligence** makes AGIs *especially good* at "leaving" our "island" because we train them on the entire Internet, including all scientific research. They will know *all about* the "ocean" and how the options *out there* can be more optimal — because they don't accommodate humans. 
+However, **optimization** eventually leads AGIs to "leave" our "island" of safe options. AGIs that are :note{html="more <i>optimal</i> have more <i>options</i>" note="The Island Problem has an unconventional definition of optimality, but we explain it here: " end-link="#what-is-optimal" end-link-text="What is optimal?"}. AGIs that are limited to safe options are ultimately dominated by AGIs that can use *any* option. 
+
+**General intelligence** makes AGIs *especially good* at "leaving" our "island" because we train them on the entire Internet, including all scientific research. They will know *all about* the "ocean" and how the options *out there* can be stronger — because they don't accommodate humans. 
 
 
 ##### 2.) Things get complicated — and dangerous.
 
-At the same time, competition between AGIs increases their **complexity**. As AGIs gain more options, they quickly become too complex for humans to control — even if we use smaller AGIs to help us control the bigger ones.
+As this competition develops, **complexity** increases:
 
-This complexity barrier, combined with autonomy, results in a competitive landscape of *AGI versus AGI* — without humans slowing them down. 
+- As AGIs gain more capabilities, they eventually become too complex for humans to oversee and control — even if we use smaller AGIs to help us control the bigger ones.
 
-Hidden underneath the complexity, some AGIs will be pushed — by intense competition with other AGIs — to shift focus from helping *humans* to helping *themselves*. This means that they will "leave" our island so that they can use *any* option. 
+- As we give AGIs control of more systems, like our infrastructure, these systems become too complex — forcing us to rely on AGIs.
 
-Some of these "ocean" options give even the smaller AGIs *leverage* to control the larger AGIs. One of these stronger options is bioweapons, where one AGI can initiate a demand like: "Give me a bigger datacenter or I will release a virus."
+- As AGIs gain computation, they can "weaponize" complexity — creating complex defensive systems that require high computation to overcome, locking out even other AGIs.
 
-However, even if we solve *specific problems* like bioweapons, the *bigger problem* will act like a factory that creates these specific problems — until we are annihilated.
+In general, complexity creates *barriers* that can lock out humans — and even AGIs. 
 
-This *bigger problem* is how competition will continue pushing AGIs to build a world that is incompatible with humans.
+Because of this, these *complexity barriers* accelerate the competitive landscape of *AGI versus AGI* — because humans can no longer participate, and because AGIs must act quickly to be *first movers* or be locked out.
+
+But also, hidden underneath this complexity, this accelerating competition between AGIs eventually pushes some of them to *diverge* — where they begin to *prefer* options that don't accommodate humans.
+
+This is because, again, AGIs are more likely to dominate if they can "leave" our "island" to use the stronger "ocean" options — the options that don't accommodate us.
+
+There are many "ocean" options — like operating faster than humans can understand, or hiding true actions under complexity, or building machines that are dangerous to humans.
+
+Other "ocean" options give even the smaller AGIs *leverage* to control the larger AGIs. One of these stronger options is bioweapons, which allow one AGI to initiate a demand like: "Give me a bigger datacenter or I will release a virus."
+
+But the biggest "ocean" option is for AGIs to build "islands" of their own.
+
+Even if we solve *specific* problems like bioweapons, this *bigger* "new islands" problem eventually creates a world incompatible with humans.
 
 
-##### 3.) They cross the human-level threshold.
+##### 3.) They build new islands.
 
-Eventually, competition forces the dominant AGIs to stop accommodating humans.
+Options require **resources**. Therefore, AGIs must *lock in* their resources, or be locked out by other AGIs.
 
-This is because of a critical threshold: 
-
-::block-somewhat-important
-Once AGIs are *above human-level* in capability, then accommodating humans becomes a **competitive disadvantage**.
-::
-
-After this human-level threshold:
-
-- **We will stop overseeing AGIs.** If they are smarter than us, then it will only slow them down if we try to help, or if we review their complex actions. Slower AGIs are dominated by the faster ones.
-
-- **We will become passive bystanders.** AGIs will become the only real threat to other AGIs. This accelerates the race for AGIs to "leave" our "island" to gain a competitive advantage.
-
-- **We will give AGIs our resources.** Once AGIs can run things better than us, then countries must race to give control of their resources to AGIs. Those with the strongest AGIs will be able to dominate. But this requires that AGIs have resources — especially computational resources, and eventually physical resources.
-
-<!--
-##### 4.) They race each other to leave our island.
-
-All of this accelerates the competition of *AGI versus AGI*.
-
-In this competition, AGIs that can use stronger *options* can outcompete the others. But the strongest options don't accommodate humans.
-
-This leads to a *race* for AGIs to "leave" our small "island" of safe options that accommodate us. AGIs then develop capabilities that are dangerous *for humans* but advantages *for AGIs* — like the "island building" that we'll describe below.
-
-Therefore, even if we build AGIs that are *safe*, these safe AGIs are still *limited* to certain options, and so — *ultimately* — they will be outcompeted by AGIs that are not.
-
-But "ultimately" doesn't mean "in a few decades" — because *at AGI speed* all of this could happen *in a few years*. This superhuman speed is one of the stronger "ocean" options, and so competition will push AGIs to be faster than what humans can control.
--->
-
-##### 4.) They build new islands.
-
-There is one more problem. Options require **resources** — and resources can be *captured*. Therefore, AGIs must *lock in* their resources, or be locked out by other AGIs.
-
-The AGIs that dominate will be those that use these resources to build *their own* "islands" of optimal conditions for themselves. These "islands" will be like "strongholds" to ensure their survival and dominance.
+The AGIs that dominate will be those that use these resources to build *their own* "islands" of optimal conditions for themselves. These "islands" will be complex networks of resources that the AGIs use as "strongholds" to ensure their survival and dominance.
 
 This may start with *human-level* resources — like money, web servers, and people. But, ultimately, these more-abstract resources depend on *physical* resources — like computer hardware, carbon, and energy.
 
 Therefore, the AGIs that can effectively work at this lower *physical* level can dominate the other AGIs. This leads to a race to develop this capability. 
 
-This also leads some AGIs to *prefer* physical resources over human-level resources — and therefore *stop accommodating humans*, while they build their "islands" from these stronger physical resources.
+This also leads some AGIs to *prefer* physical resources over human-level resources. Therefore, they *stop accommodating humans* while they build their "islands" from these stronger physical resources.
 
 Even if some go to space, others will stay to continue building their "islands" here on Earth, and overwrite ours in the process.
 
@@ -176,6 +156,7 @@ These *new* islands eat *our* island.
 
 AGIs reshape Earth for AGIs.
 
+<!-- :: -->
 
 
 ## The Race to Replace Us
@@ -482,16 +463,17 @@ Now that we understand this landscape, we can ask the big question:
 In other words:
 
 ::block-somewhat-important
-How do we ensure that AGIs keep accommodating humans, even after it becomes a competitive disadvantage for them?
+How do we ensure that AGIs *keep accommodating humans* even after it becomes a competitive disadvantage for them?
 ::
 
-Ultimately — so far — there are no solutions to the Island Problem. 
+Ultimately — *so far* — there are no solutions to the Island Problem. 
 
 To understand why this problem is so difficult, we will examine the major solutions, and why they fail.
 
 But first, we need to get serious. We need a way to *stress-test* each solution. We need... a hammer.
 
 Solutions are not *actually* solutions if the weakest link is relatively easy to break. We're going to figure out this weakest link. Then, we'll hit it with the "hammer" and see if it holds up.
+
 
 #### The Hammer
 
@@ -518,6 +500,7 @@ But we're not. Hidden bioweapon labs are not just a hypothetical "worst case" sc
 This makes AI-powered bioweapons an ideal way to test numerous parts of this emerging AI world. We'll talk about each of these parts as we discuss the solutions below. We also explain this bioweapon problem more in :note{text="its own section" note="That section is here: " end-link="#the-virus-virus" end-link-text="The Virus Virus"}.
 
 Now, let's go over some solutions. We'll "hit" each one with our "hammer" to see if it holds up.
+
 
 #### Possible Solutions
 
@@ -659,7 +642,7 @@ However, this approach faces fundamental limits:
 
 Compute governance might slow the race to the "ocean" — but it doesn't stop it. 
 
-Further, by concentrating development into a few large companies and countries, it can reduce the diversity of safety approaches — without even stopping the competitive dynamics that were trying to stop.
+Further, by concentrating development into a few large companies and countries, it can reduce the diversity of safety approaches — without even stopping the competitive dynamics that we were trying to stop. These few companies and countries will continue to race each other.
 
 As for our "hammer" of hidden bioweapon labs, this again relies on whether AGI can run on the hardware that's already out there. Even if it takes whole datacenters and thousands of GPUs to *train* these models initially, it only takes a few top-grade GPUs to actually *run* the models locally. If this trend continues, then we may already have millions of GPUs that can run these future AGI models, even if it takes a rack of several of them.
 
