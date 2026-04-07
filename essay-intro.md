@@ -63,7 +63,7 @@ This will make these AGIs *vastly stronger*.
 This leads to a hard problem:
 
 ::block-somewhat-important
-Even if we build AGIs that are safe and aligned with humans, they will eventually be dominated by AGIs <span class="nowrap">that are not.</span>
+Even if we build AGIs that are *safe* and aligned with humans, they will eventually be dominated by AGIs <span class="nowrap">that are <i>not</i>.</span>
 ::
 
 This situation *might* be fine with a few AGIs developed slowly and carefully — so that we make sure that they keep accommodating us, even if they are smart enough to no longer need us.
