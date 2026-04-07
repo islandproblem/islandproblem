@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1069px" height="912px" viewBox="0 0 1069 912" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>agi-dependency-graph-sq-island-1_outlines</title>
+    <defs>
+        <path d="M0,0 L1069,0 L1069,912 L0,912 L0,0 Z" id="path-1"></path>
+    </defs>
+    <g id="agi-dependency-graph-sq-island-1_outlines" stroke="none" fill="none" xlink:href="#path-1" fill-rule="evenodd" stroke-width="1">
+        <g id="Group" transform="translate(-3, 0)">
+            <rect id="Rectangle-2" stroke-opacity="0.483513327" stroke="#6EAFD6" stroke-width="8" fill="#031A27" x="497" y="4" width="571" height="621" rx="18"></rect>
+            <rect id="Rectangle" stroke-opacity="0.351811428" stroke="#FF7676" stroke-width="8" fill="#1D140C" x="8" y="61" width="429" height="564" rx="18"></rect>
+            <text id="sandwiches" font-family="Roboto-Medium, Roboto" font-size="36" font-weight="400" fill="#FF8D8D">
+                <tspan x="122.962891" y="131">sandwiches</tspan>
+            </text>
+            <text id="organic-chemistry" font-family="Roboto-Bold, Roboto" font-size="42" font-weight="bold" fill="#FFFFFF">
+                <tspan x="57.315918" y="729">organic chemistry</tspan>
+            </text>
+            <text id="physics" font-family="Roboto-Bold, Roboto" font-size="56" font-weight="bold" fill="#FFFFFF">
+                <tspan x="404.195312" y="884">physics</tspan>
+            </text>
+            <text id="inorganic-chemistry" font-family="Roboto-Bold, Roboto" font-size="42" font-weight="bold" fill="#FFFFFF">
+                <tspan x="590.986816" y="729">inorganic chemistry</tspan>
+            </text>
+            <text id="electronics" font-family="Roboto-Medium, Roboto" font-size="42" font-weight="400" fill="#48BBFF">
+                <tspan x="680.157807" y="573">electronics</tspan>
+            </text>
+            <text id="computer-systems" font-family="Roboto-Medium, Roboto" font-size="42" font-weight="400" fill="#48BBFF">
+                <tspan x="609.036713" y="457">computer systems</tspan>
+            </text>
+            <text id="biology" font-family="Roboto-Bold, Roboto" font-size="42" font-weight="bold" fill="#FF8D8D">
+                <tspan x="150.265625" y="572">biology</tspan>
+            </text>
+            <text id="humans" font-family="Roboto-Bold, Roboto" font-size="60" font-weight="bold" fill="#FF8D8D">
+                <tspan x="109.643555" y="357">humans</tspan>
+            </text>
+            <text id="shrimp" font-family="Roboto-Medium, Roboto" font-size="38" font-weight="400" fill="#FF8D8D">
+                <tspan x="282.384766" y="456">shrimp</tspan>
+            </text>
+            <text id="lemurs" font-family="Roboto-Medium, Roboto" font-size="38" font-weight="400" fill="#FF8D8D">
+                <tspan x="43.8764648" y="456">lemurs</tspan>
+            </text>
+            <text id="laws" font-family="Roboto-Medium, Roboto" font-size="40" font-weight="400" fill="#FF8D8D">
+                <tspan x="297.386719" y="204">laws</tspan>
+            </text>
+            <text id="money" font-family="Roboto-Medium, Roboto" font-size="40" font-weight="400" fill="#FF8D8D">
+                <tspan x="43.1191406" y="201">money</tspan>
+            </text>
+            <text id="artificial-intellige" font-family="Roboto-Bold, Roboto" font-size="50" font-weight="bold" fill="#95D8FF">
+                <tspan x="553.348633" y="341">artificial intelligence</tspan>
+            </text>
+            <line x1="374.394531" y1="837.5" x2="264.5" y2="760.5" id="Line" stroke-opacity="0.582778033" stroke="#979797" stroke-width="4" stroke-linecap="square"></line>
+            <line x1="624.5" y1="837.5" x2="738.929687" y2="763" id="Line" stroke-opacity="0.582778033" stroke="#979797" stroke-width="4" stroke-linecap="square"></line>
+            <line x1="784" y1="669" x2="784" y2="596.566406" id="Line" stroke="#0091E7" stroke-width="5" stroke-linecap="square"></line>
+            <line x1="213.5" y1="669" x2="213.5" y2="602.566406" id="Line" stroke="#FF8D8D" stroke-width="5" stroke-linecap="square"></line>
+            <line x1="783.5" y1="524" x2="783.5" y2="484.566406" id="Line" stroke="#0091E7" stroke-width="5" stroke-linecap="square"></line>
+            <line x1="783" y1="406" x2="783" y2="370" id="Line" stroke="#0091E7" stroke-width="5" stroke-linecap="square"></line>
+            <line x1="810.256044" y1="278.5" x2="891.417173" y2="155" id="Line" stroke="#0091E7" stroke-width="4" stroke-linecap="square"></line>
+            <line x1="160.691406" y1="287" x2="123.941406" y2="235.050781" id="Line" stroke="#FF8D8D" stroke-width="4" stroke-linecap="square"></line>
+            <line x1="308.691406" y1="287" x2="268.941406" y2="236.050781" id="Line" stroke="#FF8D8D" stroke-width="4" stroke-linecap="square" transform="translate(288.8164, 261.5254) scale(-1, 1) translate(-288.8164, -261.5254)"></line>
+            <line x1="295.699219" y1="520" x2="326.417969" y2="482" id="Line" stroke="#FF8D8D" stroke-width="4" stroke-linecap="square"></line>
+            <line x1="105.699219" y1="517" x2="136.417969" y2="482" id="Line" stroke="#FF8D8D" stroke-width="4" stroke-linecap="square" transform="translate(121.0586, 499.5) scale(-1, 1) translate(-121.0586, -499.5)"></line>
+            <text id="systems-made-by-AI" font-family="Roboto-Medium, Roboto" font-size="38" font-weight="400" fill="#48BBFF">
+                <tspan x="851.286133" y="85">systems </tspan>
+                <tspan x="827.851562" y="135">made by AI</tspan>
+            </text>
+            <text id="maintenance" font-family="Roboto-Medium, Roboto" font-size="36" font-weight="400" fill="#79FF58">
+                <tspan x="520.506836" y="192">maintenance</tspan>
+            </text>
+            <text id="robotics" font-family="Roboto-Medium, Roboto" font-size="40" font-weight="400" fill="#79FF58">
+                <tspan x="641.738281" y="73">robotics</tspan>
+            </text>
+            <path id="Line" d="M670.450818,96.7019636 L673.774599,98.9273806 L672.66189,100.589271 L652.986,129.974 L661.296501,135.538254 L637.972656,148.804688 L641.353816,122.185751 L649.663,127.749 L669.33811,98.363854 L670.450818,96.7019636 Z" fill="#29CA00" fill-rule="nonzero"></path>
+            <path id="Line" d="M740,105.476562 L756.137682,126.914268 L746.301,128.72 L773.467103,276.638745 L773.828358,278.605848 L769.894152,279.328358 L769.532897,277.361255 L742.367,129.443 L732.532445,131.249331 L740,105.476562 Z" fill="#29CA00" fill-rule="nonzero"></path>
+            <path id="Line" d="M626.603582,216.570968 L627.688182,218.251337 L648.665,250.75 L657.067018,245.327962 L660,272 L636.90258,258.343163 L645.304,252.92 L624.327443,220.420538 L623.242843,218.740168 L626.603582,216.570968 Z" fill="#29CA00" fill-rule="nonzero"></path>
+            <path id="Line" d="M361.26215,311.346179 L363.902012,316.734233 L361.207985,318.054165 L355.819931,320.694027 L353.125904,322.013958 L350.486042,316.625904 L353.180069,315.305973 L361.26215,311.346179 Z M380.120339,302.106661 L382.760201,307.494715 L371.984093,312.77444 L369.344231,307.386386 L380.120339,302.106661 Z M398.978528,292.867142 L401.61839,298.255196 L398.924363,299.575127 L393.536309,302.21499 L390.842282,303.534921 L388.20242,298.146867 L390.896447,296.826936 L396.284501,294.187073 L398.978528,292.867142 Z M417.836717,283.627623 L420.47658,289.015677 L409.700471,294.295402 L407.060609,288.907348 L417.836717,283.627623 Z M436.694906,274.388105 L439.334769,279.776159 L436.640742,281.09609 L431.252688,283.735953 L428.558661,285.055884 L425.918798,279.66783 L428.612825,278.347899 L434.000879,275.708036 L436.694906,274.388105 Z M455.553095,265.148586 L458.192958,270.53664 L447.41685,275.816365 L444.776987,270.428311 L447.471014,269.10838 L455.553095,265.148586 Z M474.411284,255.909068 L477.051147,261.297122 L474.35712,262.617053 L466.275039,266.576847 L463.635176,261.188792 L471.717257,257.228999 L474.411284,255.909068 Z M493.269473,246.669549 L495.909336,252.057603 L485.133228,257.337328 L482.493365,251.949274 L493.269473,246.669549 Z M512.127663,237.43003 L514.767525,242.818084 L512.073498,244.138016 L506.685444,246.777878 L503.991417,248.097809 L501.351554,242.709755 L509.433635,238.749962 L512.127663,237.43003 Z M523.988084,216.029005 L562,216.335938 L538.947304,246.561311 L532.787,233.989 L522.849606,238.858291 L520.209744,233.470237 L530.147,228.6 L523.988084,216.029005 Z" fill-opacity="0.710229013" fill="#FF7E7E" fill-rule="nonzero"></path>
+            <line x1="214.0001" y1="390" x2="213.5" y2="519" id="Line" stroke="#FF8D8D" stroke-width="5" stroke-linecap="square"></line>
+            <line x1="214" y1="164" x2="214" y2="291" id="Line" stroke="#FF8D8D" stroke-width="5" stroke-linecap="square"></line>
+        </g>
+    </g>
+</svg>
