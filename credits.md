@@ -39,25 +39,19 @@ These works were not direct inspirations, but are related, if you are looking fo
 
 ### Feedback
 
-- Will Petillo
 - Nathan Metzger
+- Will Petillo
+
 
 
 ### But... who is behind this?
 
 Me, [Travis Bernard](https://x.com/trvb_).
 
-<!--I keep a low profile.-->
+I have an art/philosophy/dev background. That's why the essay is massively over-designed, lol
 
-<!--
+Also, I run [Creek.org](https://creek.org) — a startup that builds a platform for media organizations.
 
-More about me? Okay:
-
-- I have an art/philosophy/dev background. That's why the essay is massively over-designed, lol.
-- I grew up in the boonies, and went to [Chico State](https://www.csuchico.edu/). 
-- I run a bootstrapped [startup](https://creek.org) that builds a website framework for nonprofit media organizations. 
-- Here's my [X](https://x.com/trvb_), though I don't really post anything.
--->
 
 ### Contact
 
