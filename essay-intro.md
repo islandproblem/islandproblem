@@ -40,6 +40,8 @@ I understood why people are worried.
 
 I understood why AGI is on track to *annihilate the human species*.
 
+There. I said the crazy part. Better to get it over with now.
+
 But, to be clear, I *really* want to figure out how to build AGI that *won't* annihilate us. A world with lots of AGIs that relentlessly solve all of our problems would be *amazing* — except for the "annihilation" part.
 
 But why? Why would they annihilate us?
@@ -56,9 +58,17 @@ In other words:
 
 <p class="important-physics-intro">AGI will be aligned with physics, <span class="nowrap">not with humans.</span></p>
 
-If some AGIs can stop accommodating us, then they can start doing whatever is truly :note{text="more optimal" note="<p>&quot;Optimal&quot; technically means &quot;most optimal&quot; already, and so &quot;more optimal&quot; doesn't make sense. But it just... sounds better?</p><p>Also, for our definition of <b>optimal</b> within the Island Problem, read this section:" end-link="#what-is-optimal" end-link-text="What is optimal?"}.
+We are already building AGIs that are aligned with *physics* — where they "understand" how the physical world works. 
 
-This will make these AGIs *vastly stronger*. 
+But, at the same time, we add extra training to make them aligned with *us* — so that they "prefer" to keep accommodating humans, rather than use whichever options are *actually* stronger from a *physics* perspective. 
+
+That's the problem.
+
+If *some* AGIs can *somehow* be aligned *only* to physics — and operate in the "ocean" without our help — then they won't need to be weighed down by human constraints. 
+
+They will have far more options.
+
+With far more options, these AGIs can be *vastly stronger* than the ones that we keep on our "island" of safe options.
 
 This leads to a hard problem:
 
@@ -82,7 +92,7 @@ In other words:
 
 But why would they reshape Earth if they already "left" our island?
 
-Because "leaving" doesn't mean they *go somewhere*. It means they stay on Earth, on computer hardware, but "mentally" *check out* from our "island" of human compatibility. 
+Because "leaving" doesn't mean they *go somewhere*. It means they stay on Earth, on the same computer hardware, but "mentally" *check out* from our "island" of human compatibility. 
 
 They begin to prefer systems that aren't limited by humans. These systems are too fast, too complex, too dangerous for *humans* — but stronger from a *physics* perspective.
 
@@ -98,9 +108,9 @@ Then, once dominant AGIs emerge, what stops them from *locking in* their dominan
 
 These *new* "islands" are all of the things now under *their* control — computer systems, infrastructure, physical resources, even *people*. 
 
-We will *give them* all of this — again, because of *competition*. Companies and countries that do not give control to AGIs will be outcompeted by those that do.
+We are *giving them* all of this — again, because of *competition*. Companies and countries that do not give control to AGIs will be outcompeted by those that do.
 
-But, eventually, as they surpass human-level capabilities, AGIs will become the biggest threat to other AGIs. These "islands" then become "strongholds" that AGIs must use to defend themselves — or, to dominate the others. 
+But as their capability levels surpass humans, AGIs will become the biggest threat to other AGIs. Their "islands" then become "strongholds" that they must use to defend themselves — or, to dominate the others. 
 
 In this way, AGIs acquire the tools to push humans aside — while the intense competition of *AGI versus AGI* ensures that they do.
 
